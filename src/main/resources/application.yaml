@@ -1,0 +1,5 @@
+kpu:
+  base-url: https://sirekap-obj-data.kpu.go.id
+  wilayah-search-url: /wilayah/pemilu/ppwp
+  tps-score-url: /pemilu/hhcw/ppwp
+  result-path: result-5.txt

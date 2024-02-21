@@ -1,0 +1,4300 @@
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/11/1105/110512/1105122002/1105122002001
+Provinsi       : ACEH
+Kabupaten/Kota : ACEH BARAT
+Kecamatan      : PANTON REU
+Kelurahan      : MUGO CUT
+TPS            : TPS 001
+Anies   : 460
+Prabowo : 96
+Ganjar  : 5
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/11/1112/111201/1112012014/1112012014002
+Provinsi       : ACEH
+Kabupaten/Kota : ACEH BARAT DAYA
+Kecamatan      : BLANGPIDIE
+Kelurahan      : COT JEURAT
+TPS            : TPS 002
+Anies   : 762
+Prabowo : 25
+Ganjar  : 0
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/11/1106/110611/1106112016/1106112016001
+Provinsi       : ACEH
+Kabupaten/Kota : ACEH BESAR
+Kecamatan      : KUTA BARO
+Kelurahan      : GUE
+TPS            : TPS 001
+Anies   : 692
+Prabowo : 118
+Ganjar  : 1
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/11/1101/110114/1101142005/1101142005001
+Provinsi       : ACEH
+Kabupaten/Kota : ACEH SELATAN
+Kecamatan      : KLUET TIMUR
+Kelurahan      : LAWE SAWAH
+TPS            : TPS 001
+Anies   : 376
+Prabowo : 48
+Ganjar  : 2
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/11/1101/110112/1101122004/1101122004003
+Provinsi       : ACEH
+Kabupaten/Kota : ACEH SELATAN
+Kecamatan      : LABUHAN HAJI BARAT
+Kelurahan      : KUTA IBOH
+TPS            : TPS 003
+Anies   : 478
+Prabowo : 23
+Ganjar  : 0
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/11/1101/110107/1101072005/1101072005002
+Provinsi       : ACEH
+Kabupaten/Kota : ACEH SELATAN
+Kecamatan      : SAWANG
+Kelurahan      : SAWANG II
+TPS            : TPS 002
+Anies   : 521
+Prabowo : 17
+Ganjar  : 0
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/11/1101/110108/1101082008/1101082008001
+Provinsi       : ACEH
+Kabupaten/Kota : ACEH SELATAN
+Kecamatan      : TAPAKTUAN
+Kelurahan      : LHOK BENGKUANG
+TPS            : TPS 001
+Anies   : 165
+Prabowo : 848
+Ganjar  : 5
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/11/1110/111002/1110022005/1110022005001
+Provinsi       : ACEH
+Kabupaten/Kota : ACEH SINGKIL
+Kecamatan      : SIMPANG KANAN
+Kelurahan      : PANGI
+TPS            : TPS 001
+Anies   : 19
+Prabowo : 482
+Ganjar  : 14
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/11/1104/110418/1104182003/1104182003002
+Provinsi       : ACEH
+Kabupaten/Kota : ACEH TENGAH
+Kecamatan      : ATU LINTANG
+Kelurahan      : MERAH PUPUK
+TPS            : TPS 002
+Anies   : 57
+Prabowo : 88
+Ganjar  : 571
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/11/1102/110206/1102062006/1102062006002
+Provinsi       : ACEH
+Kabupaten/Kota : ACEH TENGGARA
+Kecamatan      : BABUL MAKMUR
+Kelurahan      : LAWE PERBUNGA
+TPS            : TPS 002
+Anies   : 4
+Prabowo : 747
+Ganjar  : 48
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/11/1102/110212/1102122011/1102122011002
+Provinsi       : ACEH
+Kabupaten/Kota : ACEH TENGGARA
+Kecamatan      : KETAMBE
+Kelurahan      : BINTANG BENER
+TPS            : TPS 002
+Anies   : 100
+Prabowo : 774
+Ganjar  : 3
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/11/1102/110201/1102012028/1102012028001
+Provinsi       : ACEH
+Kabupaten/Kota : ACEH TENGGARA
+Kecamatan      : LAWE ALAS
+Kelurahan      : PULO GADUNG
+TPS            : TPS 001
+Anies   : 431
+Prabowo : 846
+Ganjar  : 2
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/11/1102/110210/1102102011/1102102011001
+Provinsi       : ACEH
+Kabupaten/Kota : ACEH TENGGARA
+Kecamatan      : SEMADAM
+Kelurahan      : TITI PASIR
+TPS            : TPS 001
+Anies   : 161
+Prabowo : 973
+Ganjar  : 6
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/11/1103/110303/1103032023/1103032023002
+Provinsi       : ACEH
+Kabupaten/Kota : ACEH TIMUR
+Kecamatan      : IDI RAYEUK
+Kelurahan      : SEUNEUBOK BACEE
+TPS            : TPS 002
+Anies   : 422
+Prabowo : 48
+Ganjar  : 0
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/11/1103/110318/1103182005/1103182005001
+Provinsi       : ACEH
+Kabupaten/Kota : ACEH TIMUR
+Kecamatan      : PEUREULAK BARAT
+Kelurahan      : ALUE BU TUHA
+TPS            : TPS 001
+Anies   : 177
+Prabowo : 814
+Ganjar  : 3
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/11/1103/110317/1103172010/1103172010003
+Provinsi       : ACEH
+Kabupaten/Kota : ACEH TIMUR
+Kecamatan      : PEUREULAK TIMUR
+Kelurahan      : SEUMATANG KEUDE
+TPS            : TPS 003
+Anies   : 499
+Prabowo : 28
+Ganjar  : 1
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/11/1108/110825/1108252010/1108252010001
+Provinsi       : ACEH
+Kabupaten/Kota : ACEH UTARA
+Kecamatan      : GEUREDONG PASE
+Kelurahan      : PULO MEURIA
+TPS            : TPS 001
+Anies   : 855
+Prabowo : 17
+Ganjar  : 806
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/11/1108/110804/1108042015/1108042015001
+Provinsi       : ACEH
+Kabupaten/Kota : ACEH UTARA
+Kecamatan      : LHOKSUKON
+Kelurahan      : MEUNASAH ARONGAN AB
+TPS            : TPS 001
+Anies   : 622
+Prabowo : 42
+Ganjar  : 8
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/11/1108/110804/1108042044/1108042044001
+Provinsi       : ACEH
+Kabupaten/Kota : ACEH UTARA
+Kecamatan      : LHOKSUKON
+Kelurahan      : MEUNASAH DAYAH LT
+TPS            : TPS 001
+Anies   : 196
+Prabowo : 15
+Ganjar  : 802
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/11/1108/110815/1108152035/1108152035005
+Provinsi       : ACEH
+Kabupaten/Kota : ACEH UTARA
+Kecamatan      : SAWANG
+Kelurahan      : RISEH TUNONG
+TPS            : TPS 005
+Anies   : 672
+Prabowo : 86
+Ganjar  : 806
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/11/1108/110815/1108152015/1108152015008
+Provinsi       : ACEH
+Kabupaten/Kota : ACEH UTARA
+Kecamatan      : SAWANG
+Kelurahan      : TEUPIN RUSEP
+TPS            : TPS 008
+Anies   : 603
+Prabowo : 2
+Ganjar  : 11
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/11/1108/110814/1108142019/1108142019001
+Provinsi       : ACEH
+Kabupaten/Kota : ACEH UTARA
+Kecamatan      : T. JAMBO AYE
+Kelurahan      : BUKET ALUE PUTEH
+TPS            : TPS 001
+Anies   : 737
+Prabowo : 20
+Ganjar  : 2
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/11/1117/111708/1117082001/1117082001001
+Provinsi       : ACEH
+Kabupaten/Kota : BENER MERIAH
+Kecamatan      : BENER KELIPAH
+Kelurahan      : BANDAR JAYA
+TPS            : TPS 001
+Anies   : 592
+Prabowo : 55
+Ganjar  : 8
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/11/1111/111104/1111042060/1111042060001
+Provinsi       : ACEH
+Kabupaten/Kota : BIREUEN
+Kecamatan      : JEUMPA
+Kelurahan      : ABEUK TINGKEUM
+TPS            : TPS 001
+Anies   : 359
+Prabowo : 10
+Ganjar  : 0
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/11/1111/111113/1111132022/1111132022002
+Provinsi       : ACEH
+Kabupaten/Kota : BIREUEN
+Kecamatan      : KOTA JUANG
+Kelurahan      : GEULANGGANG BARO
+TPS            : TPS 002
+Anies   : 152
+Prabowo : 842
+Ganjar  : 4
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/11/1111/111105/1111052054/1111052054002
+Provinsi       : ACEH
+Kabupaten/Kota : BIREUEN
+Kecamatan      : PEUSANGAN
+Kelurahan      : COT BADA TUNONG
+TPS            : TPS 002
+Anies   : 459
+Prabowo : 33
+Ganjar  : 5
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/11/1172/117201/1172012008/1172012008004
+Provinsi       : ACEH
+Kabupaten/Kota : KOTA SABANG
+Kecamatan      : SUKAKARYA
+Kelurahan      : KUTA ATEUH
+TPS            : TPS 004
+Anies   : 654
+Prabowo : 52
+Ganjar  : 7
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/11/1175/117502/1175022001/1175022001003
+Provinsi       : ACEH
+Kabupaten/Kota : KOTA SUBULUSSALAM
+Kecamatan      : PENANGGALAN
+Kelurahan      : PENANGGALAN
+TPS            : TPS 003
+Anies   : 54
+Prabowo : 424
+Ganjar  : 24
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/11/1115/111505/1115052035/1115052035002
+Provinsi       : ACEH
+Kabupaten/Kota : NAGAN RAYA
+Kecamatan      : DARUL MAKMUR
+Kelurahan      : ALUE RAYA
+TPS            : TPS 002
+Anies   : 181206
+Prabowo : null
+Ganjar  : null
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/11/1107/110703/1107032023/1107032023006
+Provinsi       : ACEH
+Kabupaten/Kota : PIDIE
+Kecamatan      : BATEE
+Kelurahan      : CRUENG
+TPS            : TPS 006
+Anies   : 192
+Prabowo : 18
+Ganjar  : 802
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/11/1107/110727/1107272003/1107272003001
+Provinsi       : ACEH
+Kabupaten/Kota : PIDIE
+Kecamatan      : MANE
+Kelurahan      : MANE
+TPS            : TPS 001
+Anies   : 778
+Prabowo : 110
+Ganjar  : 3
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/11/1118/111806/1118062005/1118062005001
+Provinsi       : ACEH
+Kabupaten/Kota : PIDIE JAYA
+Kecamatan      : BANDAR BARU
+Kelurahan      : DAYAH NYONG
+TPS            : TPS 001
+Anies   : 140
+Prabowo : 845
+Ganjar  : 2
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/11/1118/111802/1118022010/1118022010002
+Provinsi       : ACEH
+Kabupaten/Kota : PIDIE JAYA
+Kecamatan      : ULIM
+Kelurahan      : TIJIEN DABOH
+TPS            : TPS 002
+Anies   : 203
+Prabowo : 24
+Ganjar  : 801
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/11/1109/110904/1109042012/1109042012001
+Provinsi       : ACEH
+Kabupaten/Kota : SIMEULUE
+Kecamatan      : SIMEULUE TIMUR
+Kelurahan      : AIR DINGIN
+TPS            : TPS 001
+Anies   : 185
+Prabowo : 862
+Ganjar  : 0
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/51/5108/510803/5108032015/5108032015006
+Provinsi       : BALI
+Kabupaten/Kota : BULELENG
+Kecamatan      : BUSUNGBIU
+Kelurahan      : SEPANG KELOD
+TPS            : TPS 006
+Anies   : 566
+Prabowo : 66
+Ganjar  : 555
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/51/5108/510801/5108012002/5108012002016
+Provinsi       : BALI
+Kabupaten/Kota : BULELENG
+Kecamatan      : GEROKGAK
+Kelurahan      : PEJARAKAN
+TPS            : TPS 016
+Anies   : 82
+Prabowo : 534
+Ganjar  : 865
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/51/5108/510802/5108021015/5108021015019
+Provinsi       : BALI
+Kabupaten/Kota : BULELENG
+Kecamatan      : SERIRIT
+Kelurahan      : SERIRIT
+TPS            : TPS 019
+Anies   : 856
+Prabowo : 617
+Ganjar  : 848
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/51/5104/510405/5104052006/5104052006024
+Provinsi       : BALI
+Kabupaten/Kota : GIANYAR
+Kecamatan      : UBUD
+Kelurahan      : PELIATAN
+TPS            : TPS 024
+Anies   : 432
+Prabowo : 124
+Ganjar  : 83
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/51/5171/517102/5171022001/5171022001036
+Provinsi       : BALI
+Kabupaten/Kota : KOTA DENPASAR
+Kecamatan      : DENPASAR TIMUR
+Kelurahan      : DANGIN PURI KELOD
+TPS            : TPS 036
+Anies   : 324
+Prabowo : 108
+Ganjar  : 81
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/51/5171/517102/5171022002/5171022002037
+Provinsi       : BALI
+Kabupaten/Kota : KOTA DENPASAR
+Kecamatan      : DENPASAR TIMUR
+Kelurahan      : SUMERTA KELOD
+TPS            : TPS 037
+Anies   : 20
+Prabowo : 629
+Ganjar  : 482
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/51/5102/510201/5102012007/5102012007001
+Provinsi       : BALI
+Kabupaten/Kota : TABANAN
+Kecamatan      : SELEMADEG
+Kelurahan      : ANTAP
+TPS            : TPS 001
+Anies   : 401
+Prabowo : 45
+Ganjar  : 287
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/51/5102/510201/5102012004/5102012004005
+Provinsi       : BALI
+Kabupaten/Kota : TABANAN
+Kecamatan      : SELEMADEG
+Kelurahan      : BEREMBENG
+TPS            : TPS 005
+Anies   : 4
+Prabowo : 64
+Ganjar  : 648
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/36/3673/367302/3673021008/3673021008029
+Provinsi       : BANTEN
+Kabupaten/Kota : KOTA SERANG
+Kecamatan      : KASEMEN
+Kelurahan      : SAWAH LUHUR
+TPS            : TPS 029
+Anies   : 334
+Prabowo : 757
+Ganjar  : 457
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/36/3671/367104/3671041004/3671041004022
+Provinsi       : BANTEN
+Kabupaten/Kota : KOTA TANGERANG
+Kecamatan      : BENDA
+Kelurahan      : PAJANG
+TPS            : TPS 022
+Anies   : 404
+Prabowo : 79
+Ganjar  : 19
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/36/3671/367109/3671091001/3671091001055
+Provinsi       : BANTEN
+Kabupaten/Kota : KOTA TANGERANG
+Kecamatan      : CIBODAS
+Kelurahan      : CIBODAS
+TPS            : TPS 055
+Anies   : 847
+Prabowo : 123
+Ganjar  : 833
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/36/3671/367110/3671101001/3671101001050
+Provinsi       : BANTEN
+Kabupaten/Kota : KOTA TANGERANG
+Kecamatan      : NEGLASARI
+Kelurahan      : NEGLASARI
+TPS            : TPS 050
+Anies   : 856
+Prabowo : 707
+Ganjar  : 75
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/36/3671/367111/3671111002/3671111002033
+Provinsi       : BANTEN
+Kabupaten/Kota : KOTA TANGERANG
+Kecamatan      : PINANG
+Kelurahan      : SUDIMARA PINANG
+TPS            : TPS 033
+Anies   : 98
+Prabowo : 76
+Ganjar  : 827
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/36/3674/367404/3674041006/3674041006096
+Provinsi       : BANTEN
+Kabupaten/Kota : KOTA TANGERANG SELATAN
+Kecamatan      : CIPUTAT
+Kelurahan      : JOMBANG
+TPS            : TPS 096
+Anies   : 77
+Prabowo : 98
+Ganjar  : 888
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/36/3674/367404/3674041001/3674041001015
+Provinsi       : BANTEN
+Kabupaten/Kota : KOTA TANGERANG SELATAN
+Kecamatan      : CIPUTAT
+Kelurahan      : SAWAH BARU
+TPS            : TPS 015
+Anies   : 556
+Prabowo : 92
+Ganjar  : 48
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/36/3602/360209/3602092001/3602092001002
+Provinsi       : BANTEN
+Kabupaten/Kota : LEBAK
+Kecamatan      : BANJARSARI
+Kelurahan      : KERTA
+TPS            : TPS 002
+Anies   : 452
+Prabowo : 523
+Ganjar  : 557
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/36/3602/360203/3602032008/3602032008005
+Provinsi       : BANTEN
+Kabupaten/Kota : LEBAK
+Kecamatan      : BAYAH
+Kelurahan      : CIMANCAK
+TPS            : TPS 005
+Anies   : 555
+Prabowo : 45
+Ganjar  : 7
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/36/3602/360207/3602072010/3602072010012
+Provinsi       : BANTEN
+Kabupaten/Kota : LEBAK
+Kecamatan      : BOJONGMANIK
+Kelurahan      : PARAKANBEUSI
+TPS            : TPS 012
+Anies   : 24
+Prabowo : 792
+Ganjar  : 20
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/36/3602/360219/3602192004/3602192004004
+Provinsi       : BANTEN
+Kabupaten/Kota : LEBAK
+Kecamatan      : CIBEBER
+Kelurahan      : KUJANGJAYA
+TPS            : TPS 004
+Anies   : 24
+Prabowo : 497
+Ganjar  : 29
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/36/3602/360219/3602192021/3602192021008
+Provinsi       : BANTEN
+Kabupaten/Kota : LEBAK
+Kecamatan      : CIBEBER
+Kelurahan      : WANASARI
+TPS            : TPS 008
+Anies   : 827
+Prabowo : 110
+Ganjar  : 20
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/36/3602/360226/3602262004/3602262004001
+Provinsi       : BANTEN
+Kabupaten/Kota : LEBAK
+Kecamatan      : CIHARA
+Kelurahan      : PONDOKPANJANG
+TPS            : TPS 001
+Anies   : 51
+Prabowo : 463
+Ganjar  : 17
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/36/3602/360216/3602162013/3602162013002
+Provinsi       : BANTEN
+Kabupaten/Kota : LEBAK
+Kecamatan      : CIJAKU
+Kelurahan      : KANDANGSAPI
+TPS            : TPS 002
+Anies   : 202
+Prabowo : 545
+Ganjar  : 56
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/36/3602/360211/3602112003/3602112003007
+Provinsi       : BANTEN
+Kabupaten/Kota : LEBAK
+Kecamatan      : CIMARGA
+Kelurahan      : SUDAMANIK
+TPS            : TPS 007
+Anies   : 93
+Prabowo : 422
+Ganjar  : 12
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/36/3602/360227/3602272008/3602272008004
+Provinsi       : BANTEN
+Kabupaten/Kota : LEBAK
+Kecamatan      : CIRINTEN
+Kelurahan      : CEMPAKA
+TPS            : TPS 004
+Anies   : 39
+Prabowo : 454
+Ganjar  : 24
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/36/3602/360223/3602232008/3602232008003
+Provinsi       : BANTEN
+Kabupaten/Kota : LEBAK
+Kecamatan      : CURUG BITUNG
+Kelurahan      : SEKARWANGI
+TPS            : TPS 003
+Anies   : 56
+Prabowo : 659
+Ganjar  : 24
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/36/3602/360201/3602012009/3602012009001
+Provinsi       : BANTEN
+Kabupaten/Kota : LEBAK
+Kecamatan      : MALINGPING
+Kelurahan      : CIPEUNDEUY
+TPS            : TPS 001
+Anies   : 60
+Prabowo : 626
+Ganjar  : 24
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/36/3602/360201/3602012009/3602012009011
+Provinsi       : BANTEN
+Kabupaten/Kota : LEBAK
+Kecamatan      : MALINGPING
+Kelurahan      : CIPEUNDEUY
+TPS            : TPS 011
+Anies   : 7
+Prabowo : 844
+Ganjar  : 20
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/36/3602/360205/3602052020/3602052020012
+Provinsi       : BANTEN
+Kabupaten/Kota : LEBAK
+Kecamatan      : MUNCANG
+Kelurahan      : MEKARWANGI
+TPS            : TPS 012
+Anies   : 44
+Prabowo : 747
+Ganjar  : 4
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/36/3602/360212/3602122009/3602122009002
+Provinsi       : BANTEN
+Kabupaten/Kota : LEBAK
+Kecamatan      : SAJIRA
+Kelurahan      : PAJAGAN
+TPS            : TPS 002
+Anies   : 355
+Prabowo : 144
+Ganjar  : 17
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/36/3602/360221/3602212005/3602212005028
+Provinsi       : BANTEN
+Kabupaten/Kota : LEBAK
+Kecamatan      : WANASALAM
+Kelurahan      : MUARA
+TPS            : TPS 028
+Anies   : 67
+Prabowo : 125
+Ganjar  : 524
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/36/3601/360110/3601102007/3601102007005
+Provinsi       : BANTEN
+Kabupaten/Kota : PANDEGLANG
+Kecamatan      : BOJONG
+Kelurahan      : MANGGUNGJAYA
+TPS            : TPS 005
+Anies   : 28
+Prabowo : 649
+Ganjar  : 2
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/36/3601/360103/3601032001/3601032001010
+Provinsi       : BANTEN
+Kabupaten/Kota : PANDEGLANG
+Kecamatan      : CIBALIUNG
+Kelurahan      : MENDUNG
+TPS            : TPS 010
+Anies   : 64
+Prabowo : 404
+Ganjar  : 42
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/36/3601/360126/3601262003/3601262003013
+Provinsi       : BANTEN
+Kabupaten/Kota : PANDEGLANG
+Kecamatan      : CIKEDAL
+Kelurahan      : CIPICUNG
+TPS            : TPS 013
+Anies   : 406
+Prabowo : 94
+Ganjar  : 822
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/36/3601/360126/3601262008/3601262008005
+Provinsi       : BANTEN
+Kabupaten/Kota : PANDEGLANG
+Kecamatan      : CIKEDAL
+Kelurahan      : PADAHAYU
+TPS            : TPS 005
+Anies   : 102
+Prabowo : 427
+Ganjar  : 10
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/36/3601/360104/3601042006/3601042006004
+Provinsi       : BANTEN
+Kabupaten/Kota : PANDEGLANG
+Kecamatan      : CIKEUSIK
+Kelurahan      : NANGGALA
+TPS            : TPS 004
+Anies   : 45
+Prabowo : 457
+Ganjar  : 4
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/36/3601/360104/3601042013/3601042013008
+Provinsi       : BANTEN
+Kabupaten/Kota : PANDEGLANG
+Kecamatan      : CIKEUSIK
+Kelurahan      : UMBULAN
+TPS            : TPS 008
+Anies   : 36
+Prabowo : 747
+Ganjar  : 9
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/36/3601/360116/3601162002/3601162002012
+Provinsi       : BANTEN
+Kabupaten/Kota : PANDEGLANG
+Kecamatan      : JIPUT
+Kelurahan      : JIPUT
+TPS            : TPS 012
+Anies   : 879
+Prabowo : 155
+Ganjar  : 11
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/36/3601/360116/3601162006/3601162006002
+Provinsi       : BANTEN
+Kabupaten/Kota : PANDEGLANG
+Kecamatan      : JIPUT
+Kelurahan      : SIKULAN
+TPS            : TPS 002
+Anies   : 889
+Prabowo : 8
+Ganjar  : 5
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/36/3601/360125/3601251014/3601251014007
+Provinsi       : BANTEN
+Kabupaten/Kota : PANDEGLANG
+Kecamatan      : KARANG TANJUNG
+Kelurahan      : JUHUT
+TPS            : TPS 007
+Anies   : 76
+Prabowo : 307
+Ganjar  : 12
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/36/3601/360133/3601332008/3601332008001
+Provinsi       : BANTEN
+Kabupaten/Kota : PANDEGLANG
+Kecamatan      : KORONCONG
+Kelurahan      : PANIIS
+TPS            : TPS 001
+Anies   : 403
+Prabowo : 128
+Ganjar  : 827
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/36/3601/360117/3601172011/3601172011003
+Provinsi       : BANTEN
+Kabupaten/Kota : PANDEGLANG
+Kecamatan      : MANDALAWANGI
+Kelurahan      : PANJANGJAYA
+TPS            : TPS 003
+Anies   : 839
+Prabowo : 720
+Ganjar  : 14
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/36/3601/360109/3601092013/3601092013006
+Provinsi       : BANTEN
+Kabupaten/Kota : PANDEGLANG
+Kecamatan      : PAGELARAN
+Kelurahan      : MARGAGIRI
+TPS            : TPS 006
+Anies   : 62
+Prabowo : 645
+Ganjar  : 5
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/36/3601/360132/3601322001/3601322001003
+Provinsi       : BANTEN
+Kabupaten/Kota : PANDEGLANG
+Kecamatan      : PULOSARI
+Kelurahan      : KORANJI
+TPS            : TPS 003
+Anies   : 874
+Prabowo : 105
+Ganjar  : 818
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/36/3601/360129/3601292007/3601292007006
+Provinsi       : BANTEN
+Kabupaten/Kota : PANDEGLANG
+Kecamatan      : SUKARESMI
+Kelurahan      : SIDAMUKTI
+TPS            : TPS 006
+Anies   : 74
+Prabowo : 647
+Ganjar  : 24
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/36/3601/360129/3601292007/3601292007012
+Provinsi       : BANTEN
+Kabupaten/Kota : PANDEGLANG
+Kecamatan      : SUKARESMI
+Kelurahan      : SIDAMUKTI
+TPS            : TPS 012
+Anies   : 31
+Prabowo : 477
+Ganjar  : 14
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/36/3604/360414/3604142009/3604142009011
+Provinsi       : BANTEN
+Kabupaten/Kota : SERANG
+Kecamatan      : TANARA
+Kelurahan      : CIBODAS
+TPS            : TPS 011
+Anies   : 422
+Prabowo : 98
+Ganjar  : 7
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/36/3604/360406/3604062006/3604062006005
+Provinsi       : BANTEN
+Kabupaten/Kota : SERANG
+Kecamatan      : WARINGINKURUNG
+Kelurahan      : SUKADALEM
+TPS            : TPS 005
+Anies   : 897
+Prabowo : 153
+Ganjar  : 13
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/36/3603/360302/3603022007/3603022007008
+Provinsi       : BANTEN
+Kabupaten/Kota : TANGERANG
+Kecamatan      : JAYANTI
+Kelurahan      : DANGDEUR
+TPS            : TPS 008
+Anies   : 77
+Prabowo : 557
+Ganjar  : 111
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/36/3603/360306/3603062007/3603062007023
+Provinsi       : BANTEN
+Kabupaten/Kota : TANGERANG
+Kecamatan      : KRESEK
+Kelurahan      : KEMUNING
+TPS            : TPS 023
+Anies   : 65
+Prabowo : 831
+Ganjar  : 19
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/36/3603/360306/3603062003/3603062003017
+Provinsi       : BANTEN
+Kabupaten/Kota : TANGERANG
+Kecamatan      : KRESEK
+Kelurahan      : RANCAILAT
+TPS            : TPS 017
+Anies   : 87
+Prabowo : 707
+Ganjar  : 87
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/36/3603/360307/3603072002/3603072002008
+Provinsi       : BANTEN
+Kabupaten/Kota : TANGERANG
+Kecamatan      : KRONJO
+Kelurahan      : PAGENJAHAN
+TPS            : TPS 008
+Anies   : 405
+Prabowo : 424
+Ganjar  : 46
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/36/3603/360315/3603152007/3603152007030
+Provinsi       : BANTEN
+Kabupaten/Kota : TANGERANG
+Kecamatan      : PAKUHAJI
+Kelurahan      : KALIBARU
+TPS            : TPS 030
+Anies   : 64
+Prabowo : 643
+Ganjar  : 14
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/36/3603/360315/3603152013/3603152013003
+Provinsi       : BANTEN
+Kabupaten/Kota : TANGERANG
+Kecamatan      : PAKUHAJI
+Kelurahan      : LAKSANA
+TPS            : TPS 003
+Anies   : 649
+Prabowo : 889
+Ganjar  : 830
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/36/3603/360312/3603122015/3603122015027
+Provinsi       : BANTEN
+Kabupaten/Kota : TANGERANG
+Kecamatan      : PASAR KEMIS
+Kelurahan      : SUKA ASIH
+TPS            : TPS 027
+Anies   : 52
+Prabowo : 645
+Ganjar  : 25
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/36/3603/360311/3603112006/3603112006003
+Provinsi       : BANTEN
+Kabupaten/Kota : TANGERANG
+Kecamatan      : RAJEG
+Kelurahan      : LEMBANGSARI
+TPS            : TPS 003
+Anies   : 510
+Prabowo : 510
+Ganjar  : 11
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/36/3603/360310/3603102006/3603102006001
+Provinsi       : BANTEN
+Kabupaten/Kota : TANGERANG
+Kecamatan      : SUKADIRI
+Kelurahan      : KOSAMBI
+TPS            : TPS 001
+Anies   : 101
+Prabowo : 444
+Ganjar  : 16
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/36/3603/360303/3603032014/3603032014011
+Provinsi       : BANTEN
+Kabupaten/Kota : TANGERANG
+Kecamatan      : TIGARAKSA
+Kelurahan      : BANTAR PANJANG
+TPS            : TPS 011
+Anies   : 49
+Prabowo : 302
+Ganjar  : 13
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/36/3603/360303/3603032003/3603032003011
+Provinsi       : BANTEN
+Kabupaten/Kota : TANGERANG
+Kecamatan      : TIGARAKSA
+Kelurahan      : MATAGARA
+TPS            : TPS 011
+Anies   : 72
+Prabowo : 454
+Ganjar  : 67
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/36/3603/360303/3603032004/3603032004048
+Provinsi       : BANTEN
+Kabupaten/Kota : TANGERANG
+Kecamatan      : TIGARAKSA
+Kelurahan      : PASIR NANGKA
+TPS            : TPS 048
+Anies   : 852
+Prabowo : 172
+Ganjar  : 814
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/36/3603/360303/3603032008/3603032008025
+Provinsi       : BANTEN
+Kabupaten/Kota : TANGERANG
+Kecamatan      : TIGARAKSA
+Kelurahan      : PEMATANG
+TPS            : TPS 025
+Anies   : 40
+Prabowo : 477
+Ganjar  : 8
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/17/1701/170104/1701042032/1701042032001
+Provinsi       : BENGKULU
+Kabupaten/Kota : BENGKULU SELATAN
+Kecamatan      : MANNA
+Kelurahan      : PADANG PANDAN
+TPS            : TPS 001
+Anies   : 28
+Prabowo : 543
+Ganjar  : 20
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/17/1701/170102/1701022021/1701022021002
+Provinsi       : BENGKULU
+Kabupaten/Kota : BENGKULU SELATAN
+Kecamatan      : SEGINIM
+Kelurahan      : PAJAR BULAN
+TPS            : TPS 002
+Anies   : 54
+Prabowo : 127
+Ganjar  : 809
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/17/1709/170903/1709032022/1709032022004
+Provinsi       : BENGKULU
+Kabupaten/Kota : BENGKULU TENGAH
+Kecamatan      : PONDOK KELAPA
+Kelurahan      : SRI KUNCORO
+TPS            : TPS 004
+Anies   : 32
+Prabowo : 447
+Ganjar  : 30
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/17/1709/170906/1709061007/1709061007003
+Provinsi       : BENGKULU
+Kabupaten/Kota : BENGKULU TENGAH
+Kecamatan      : TABA PENANJUNG
+Kelurahan      : TABA PENANJUNG
+TPS            : TPS 003
+Anies   : 0
+Prabowo : 777
+Ganjar  : 754
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/17/1709/170902/1709022008/1709022008001
+Provinsi       : BENGKULU
+Kabupaten/Kota : BENGKULU TENGAH
+Kecamatan      : TALANG EMPAT
+Kelurahan      : NAKAU
+TPS            : TPS 001
+Anies   : 328
+Prabowo : 498
+Ganjar  : 884
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/17/1703/170301/1703012002/1703012002001
+Provinsi       : BENGKULU
+Kabupaten/Kota : BENGKULU UTARA
+Kecamatan      : ENGGANO
+Kelurahan      : MEOK
+TPS            : TPS 001
+Anies   : 13
+Prabowo : 315
+Ganjar  : 88
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/17/1703/170312/1703122003/1703122003003
+Provinsi       : BENGKULU
+Kabupaten/Kota : BENGKULU UTARA
+Kecamatan      : KETAHUN
+Kelurahan      : GIRI KENCANA
+TPS            : TPS 003
+Anies   : 58
+Prabowo : 443
+Ganjar  : 38
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/17/1703/170324/1703242004/1703242004005
+Provinsi       : BENGKULU
+Kabupaten/Kota : BENGKULU UTARA
+Kecamatan      : PINANG RAYA
+Kelurahan      : BUKIT MAKMUR
+TPS            : TPS 005
+Anies   : 9
+Prabowo : 170
+Ganjar  : 550
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/17/1704/170405/1704051013/1704051013001
+Provinsi       : BENGKULU
+Kabupaten/Kota : KAUR
+Kecamatan      : KAUR SELATAN
+Kelurahan      : BANDAR BINTUHAN
+TPS            : TPS 001
+Anies   : 51
+Prabowo : 470
+Ganjar  : 9
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/17/1704/170403/1704032006/1704032006002
+Provinsi       : BENGKULU
+Kabupaten/Kota : KAUR
+Kecamatan      : KAUR UTARA
+Kelurahan      : GURU AGUNG
+TPS            : TPS 002
+Anies   : 55
+Prabowo : 422
+Ganjar  : 55
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/17/1771/177102/1771021021/1771021021016
+Provinsi       : BENGKULU
+Kabupaten/Kota : KOTA BENGKULU
+Kecamatan      : GADING CEMPAKA
+Kelurahan      : SIDOMULYO
+TPS            : TPS 016
+Anies   : 101
+Prabowo : 886
+Ganjar  : 24
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/17/1771/177105/1771051002/1771051002009
+Provinsi       : BENGKULU
+Kabupaten/Kota : KOTA BENGKULU
+Kecamatan      : KAMPUNG MELAYU
+Kelurahan      : KANDANG MAS
+TPS            : TPS 009
+Anies   : 849
+Prabowo : 178
+Ganjar  : 16
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/17/1702/170216/1702162011/1702162011003
+Provinsi       : BENGKULU
+Kabupaten/Kota : REJANG LEBONG
+Kecamatan      : CURUP UTARA
+Kelurahan      : TASIK MALAYA
+TPS            : TPS 003
+Anies   : 927
+Prabowo : 160
+Ganjar  : 19
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/34/3402/340216/3402162002/3402162002038
+Provinsi       : DAERAH ISTIMEWA YOGYAKARTA
+Kabupaten/Kota : BANTUL
+Kecamatan      : KASIHAN
+Kelurahan      : TIRTONIRMOLO
+TPS            : TPS 038
+Anies   : 455
+Prabowo : 85
+Ganjar  : 39
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/34/3471/347113/3471131003/3471131003019
+Provinsi       : DAERAH ISTIMEWA YOGYAKARTA
+Kabupaten/Kota : KOTA YOGYAKARTA
+Kecamatan      : UMBULHARJO
+Kelurahan      : TAHUNAN
+TPS            : TPS 019
+Anies   : 103
+Prabowo : 860
+Ganjar  : 43
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/34/3401/340105/3401052002/3401052002023
+Provinsi       : DAERAH ISTIMEWA YOGYAKARTA
+Kabupaten/Kota : KULON PROGO
+Kecamatan      : LENDAH
+Kelurahan      : BUMIREJO
+TPS            : TPS 023
+Anies   : 47
+Prabowo : 675
+Ganjar  : 825
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/34/3401/340111/3401112004/3401112004008
+Provinsi       : DAERAH ISTIMEWA YOGYAKARTA
+Kabupaten/Kota : KULON PROGO
+Kecamatan      : SAMIGALUH
+Kelurahan      : SIDOHARJO
+TPS            : TPS 008
+Anies   : 65
+Prabowo : 108
+Ganjar  : 336
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/34/3404/340417/3404172005/3404172005014
+Provinsi       : DAERAH ISTIMEWA YOGYAKARTA
+Kabupaten/Kota : SLEMAN
+Kecamatan      : CANGKRINGAN
+Kelurahan      : UMBULHARJO
+TPS            : TPS 014
+Anies   : 341
+Prabowo : 140
+Ganjar  : 69
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/34/3404/340410/3404102003/3404102003023
+Provinsi       : DAERAH ISTIMEWA YOGYAKARTA
+Kabupaten/Kota : SLEMAN
+Kecamatan      : KALASAN
+Kelurahan      : TAMANMARTANI
+TPS            : TPS 023
+Anies   : 68
+Prabowo : 868
+Ganjar  : 61
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/31/3173/317301/3173011006/3173011006134
+Provinsi       : DKI JAKARTA
+Kabupaten/Kota : KOTA ADM. JAKARTA BARAT
+Kecamatan      : CENGKARENG
+Kelurahan      : CENGKARENG TIMUR
+TPS            : TPS 134
+Anies   : 51
+Prabowo : 317
+Ganjar  : 27
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/31/3173/317301/3173011005/3173011005310
+Provinsi       : DKI JAKARTA
+Kabupaten/Kota : KOTA ADM. JAKARTA BARAT
+Kecamatan      : CENGKARENG
+Kelurahan      : KAPUK
+TPS            : TPS 310
+Anies   : 854
+Prabowo : 144
+Ganjar  : 813
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/31/3173/317302/3173021004/3173021004070
+Provinsi       : DKI JAKARTA
+Kabupaten/Kota : KOTA ADM. JAKARTA BARAT
+Kecamatan      : GROGOL PETAMBURAN
+Kelurahan      : JELAMBAR
+TPS            : TPS 070
+Anies   : 872
+Prabowo : 77
+Ganjar  : 32
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/31/3173/317306/3173061004/3173061004122
+Provinsi       : DKI JAKARTA
+Kabupaten/Kota : KOTA ADM. JAKARTA BARAT
+Kecamatan      : KALIDERES
+Kelurahan      : KAMAL
+TPS            : TPS 122
+Anies   : 996
+Prabowo : 106
+Ganjar  : 29
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/31/3173/317306/3173061005/3173061005040
+Provinsi       : DKI JAKARTA
+Kabupaten/Kota : KOTA ADM. JAKARTA BARAT
+Kecamatan      : KALIDERES
+Kelurahan      : PEGADUNGAN
+TPS            : TPS 040
+Anies   : 41
+Prabowo : 706
+Ganjar  : 41
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/31/3173/317305/3173051005/3173051005138
+Provinsi       : DKI JAKARTA
+Kabupaten/Kota : KOTA ADM. JAKARTA BARAT
+Kecamatan      : KEBON JERUK
+Kelurahan      : DURI KEPA
+TPS            : TPS 138
+Anies   : 124
+Prabowo : 500
+Ganjar  : 702
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/31/3173/317308/3173081003/3173081003107
+Provinsi       : DKI JAKARTA
+Kabupaten/Kota : KOTA ADM. JAKARTA BARAT
+Kecamatan      : KEMBANGAN
+Kelurahan      : MERUYA SELATAN
+TPS            : TPS 107
+Anies   : 404
+Prabowo : 50
+Ganjar  : 54
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/31/3173/317308/3173081002/3173081002121
+Provinsi       : DKI JAKARTA
+Kabupaten/Kota : KOTA ADM. JAKARTA BARAT
+Kecamatan      : KEMBANGAN
+Kelurahan      : MERUYA UTARA
+TPS            : TPS 121
+Anies   : 54
+Prabowo : 104
+Ganjar  : 342
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/31/3173/317308/3173081004/3173081004061
+Provinsi       : DKI JAKARTA
+Kabupaten/Kota : KOTA ADM. JAKARTA BARAT
+Kecamatan      : KEMBANGAN
+Kelurahan      : SRENGSENG
+TPS            : TPS 061
+Anies   : 80
+Prabowo : 400
+Ganjar  : 70
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/31/3173/317303/3173031002/3173031002037
+Provinsi       : DKI JAKARTA
+Kabupaten/Kota : KOTA ADM. JAKARTA BARAT
+Kecamatan      : TAMAN SARI
+Kelurahan      : KRUKUT
+TPS            : TPS 037
+Anies   : 305
+Prabowo : 73
+Ganjar  : 14
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/31/3173/317304/3173041007/3173041007101
+Provinsi       : DKI JAKARTA
+Kabupaten/Kota : KOTA ADM. JAKARTA BARAT
+Kecamatan      : TAMBORA
+Kelurahan      : ANGKE
+TPS            : TPS 101
+Anies   : 840
+Prabowo : 850
+Ganjar  : 845
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/31/3173/317304/3173041008/3173041008008
+Provinsi       : DKI JAKARTA
+Kabupaten/Kota : KOTA ADM. JAKARTA BARAT
+Kecamatan      : TAMBORA
+Kelurahan      : JEMBATAN LIMA
+TPS            : TPS 008
+Anies   : 325
+Prabowo : 355
+Ganjar  : 353
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/31/3171/317101/3171011006/3171011006027
+Provinsi       : DKI JAKARTA
+Kabupaten/Kota : KOTA ADM. JAKARTA PUSAT
+Kecamatan      : GAMBIR
+Kelurahan      : DURI PULO
+TPS            : TPS 027
+Anies   : 745
+Prabowo : 252
+Ganjar  : 25
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/31/3171/317101/3171011006/3171011006045
+Provinsi       : DKI JAKARTA
+Kabupaten/Kota : KOTA ADM. JAKARTA PUSAT
+Kecamatan      : GAMBIR
+Kelurahan      : DURI PULO
+TPS            : TPS 045
+Anies   : 93
+Prabowo : 707
+Ganjar  : 38
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/31/3171/317101/3171011001/3171011001005
+Provinsi       : DKI JAKARTA
+Kabupaten/Kota : KOTA ADM. JAKARTA PUSAT
+Kecamatan      : GAMBIR
+Kelurahan      : GAMBIR
+TPS            : TPS 005
+Anies   : 641
+Prabowo : 77
+Ganjar  : 55
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/31/3171/317103/3171031004/3171031004088
+Provinsi       : DKI JAKARTA
+Kabupaten/Kota : KOTA ADM. JAKARTA PUSAT
+Kecamatan      : KEMAYORAN
+Kelurahan      : SERDANG
+TPS            : TPS 088
+Anies   : 374
+Prabowo : 77
+Ganjar  : 47
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/31/3174/317406/3174061001/3174061001088
+Provinsi       : DKI JAKARTA
+Kabupaten/Kota : KOTA ADM. JAKARTA SELATAN
+Kecamatan      : CILANDAK
+Kelurahan      : CILANDAK BARAT
+TPS            : TPS 088
+Anies   : 103
+Prabowo : 474
+Ganjar  : 36
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/31/3174/317406/3174061003/3174061003027
+Provinsi       : DKI JAKARTA
+Kabupaten/Kota : KOTA ADM. JAKARTA SELATAN
+Kecamatan      : CILANDAK
+Kelurahan      : PONDOK LABU
+TPS            : TPS 027
+Anies   : 50
+Prabowo : 845
+Ganjar  : 52
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/31/3174/317409/3174091006/3174091006027
+Provinsi       : DKI JAKARTA
+Kabupaten/Kota : KOTA ADM. JAKARTA SELATAN
+Kecamatan      : JAGAKARSA
+Kelurahan      : CIPEDAK
+TPS            : TPS 027
+Anies   : 113
+Prabowo : 110
+Ganjar  : 350
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/31/3174/317409/3174091001/3174091001108
+Provinsi       : DKI JAKARTA
+Kabupaten/Kota : KOTA ADM. JAKARTA SELATAN
+Kecamatan      : JAGAKARSA
+Kelurahan      : JAGAKARSA
+TPS            : TPS 108
+Anies   : 127
+Prabowo : 642
+Ganjar  : 26
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/31/3174/317409/3174091001/3174091001183
+Provinsi       : DKI JAKARTA
+Kabupaten/Kota : KOTA ADM. JAKARTA SELATAN
+Kecamatan      : JAGAKARSA
+Kelurahan      : JAGAKARSA
+TPS            : TPS 183
+Anies   : 809
+Prabowo : 82
+Ganjar  : 78
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/31/3174/317409/3174091005/3174091005085
+Provinsi       : DKI JAKARTA
+Kabupaten/Kota : KOTA ADM. JAKARTA SELATAN
+Kecamatan      : JAGAKARSA
+Kelurahan      : TANJUNG BARAT
+TPS            : TPS 085
+Anies   : 718
+Prabowo : 77
+Ganjar  : 44
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/31/3174/317405/3174051006/3174051006089
+Provinsi       : DKI JAKARTA
+Kabupaten/Kota : KOTA ADM. JAKARTA SELATAN
+Kecamatan      : KEBAYORAN LAMA
+Kelurahan      : KEBAYORAN LAMA SELATAN
+TPS            : TPS 089
+Anies   : 105
+Prabowo : 444
+Ganjar  : 70
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/31/3174/317403/3174031002/3174031002010
+Provinsi       : DKI JAKARTA
+Kabupaten/Kota : KOTA ADM. JAKARTA SELATAN
+Kecamatan      : MAMPANG PRAPATAN
+Kelurahan      : BANGKA
+TPS            : TPS 010
+Anies   : 55
+Prabowo : 705
+Ganjar  : 26
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/31/3174/317403/3174031003/3174031003013
+Provinsi       : DKI JAKARTA
+Kabupaten/Kota : KOTA ADM. JAKARTA SELATAN
+Kecamatan      : MAMPANG PRAPATAN
+Kelurahan      : PELA MAMPANG
+TPS            : TPS 013
+Anies   : 445
+Prabowo : 74
+Ganjar  : 27
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/31/3174/317404/3174041003/3174041003040
+Provinsi       : DKI JAKARTA
+Kabupaten/Kota : KOTA ADM. JAKARTA SELATAN
+Kecamatan      : PASAR MINGGU
+Kelurahan      : CILANDAK TIMUR
+TPS            : TPS 040
+Anies   : 71
+Prabowo : 307
+Ganjar  : 52
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/31/3174/317404/3174041006/3174041006100
+Provinsi       : DKI JAKARTA
+Kabupaten/Kota : KOTA ADM. JAKARTA SELATAN
+Kecamatan      : PASAR MINGGU
+Kelurahan      : PEJATEN BARAT
+TPS            : TPS 100
+Anies   : 707
+Prabowo : 57
+Ganjar  : 30
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/31/3174/317410/3174101004/3174101004113
+Provinsi       : DKI JAKARTA
+Kabupaten/Kota : KOTA ADM. JAKARTA SELATAN
+Kecamatan      : PESANGGRAHAN
+Kelurahan      : PETUKANGAN SELATAN
+TPS            : TPS 113
+Anies   : 500
+Prabowo : 200
+Ganjar  : 571
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/31/3174/317410/3174101005/3174101005039
+Provinsi       : DKI JAKARTA
+Kabupaten/Kota : KOTA ADM. JAKARTA SELATAN
+Kecamatan      : PESANGGRAHAN
+Kelurahan      : ULUJAMI
+TPS            : TPS 039
+Anies   : 140
+Prabowo : 68
+Ganjar  : 700
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/31/3174/317401/3174011005/3174011005098
+Provinsi       : DKI JAKARTA
+Kabupaten/Kota : KOTA ADM. JAKARTA SELATAN
+Kecamatan      : TEBET
+Kelurahan      : BUKIT DURI
+TPS            : TPS 098
+Anies   : 114
+Prabowo : 61
+Ganjar  : 712
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/31/3174/317401/3174011007/3174011007045
+Provinsi       : DKI JAKARTA
+Kabupaten/Kota : KOTA ADM. JAKARTA SELATAN
+Kecamatan      : TEBET
+Kelurahan      : MANGGARAI
+TPS            : TPS 045
+Anies   : 444
+Prabowo : 775
+Ganjar  : 26
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/31/3174/317401/3174011007/3174011007051
+Provinsi       : DKI JAKARTA
+Kabupaten/Kota : KOTA ADM. JAKARTA SELATAN
+Kecamatan      : TEBET
+Kelurahan      : MANGGARAI
+TPS            : TPS 051
+Anies   : 40
+Prabowo : 502
+Ganjar  : 503
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/31/3175/317509/3175091001/3175091001059
+Provinsi       : DKI JAKARTA
+Kabupaten/Kota : KOTA ADM. JAKARTA TIMUR
+Kecamatan      : CIRACAS
+Kelurahan      : CIRACAS
+TPS            : TPS 059
+Anies   : 74
+Prabowo : 404
+Ganjar  : 420
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/31/3175/317509/3175091001/3175091001100
+Provinsi       : DKI JAKARTA
+Kabupaten/Kota : KOTA ADM. JAKARTA TIMUR
+Kecamatan      : CIRACAS
+Kelurahan      : CIRACAS
+TPS            : TPS 100
+Anies   : 897
+Prabowo : 106
+Ganjar  : 27
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/31/3175/317509/3175091001/3175091001216
+Provinsi       : DKI JAKARTA
+Kabupaten/Kota : KOTA ADM. JAKARTA TIMUR
+Kecamatan      : CIRACAS
+Kelurahan      : CIRACAS
+TPS            : TPS 216
+Anies   : 444
+Prabowo : 44
+Ganjar  : 436
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/31/3175/317509/3175091004/3175091004057
+Provinsi       : DKI JAKARTA
+Kabupaten/Kota : KOTA ADM. JAKARTA TIMUR
+Kecamatan      : CIRACAS
+Kelurahan      : SUSUKAN
+TPS            : TPS 057
+Anies   : 308
+Prabowo : 87
+Ganjar  : 28
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/31/3175/317507/3175071004/3175071004066
+Provinsi       : DKI JAKARTA
+Kabupaten/Kota : KOTA ADM. JAKARTA TIMUR
+Kecamatan      : DUREN SAWIT
+Kelurahan      : PONDOK KELAPA
+TPS            : TPS 066
+Anies   : 130
+Prabowo : 357
+Ganjar  : 274
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/31/3175/317507/3175071004/3175071004099
+Provinsi       : DKI JAKARTA
+Kabupaten/Kota : KOTA ADM. JAKARTA TIMUR
+Kecamatan      : DUREN SAWIT
+Kelurahan      : PONDOK KELAPA
+TPS            : TPS 099
+Anies   : 118
+Prabowo : 894
+Ganjar  : 25
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/31/3175/317503/3175031002/3175031002017
+Provinsi       : DKI JAKARTA
+Kabupaten/Kota : KOTA ADM. JAKARTA TIMUR
+Kecamatan      : JATINEGARA
+Kelurahan      : BIDARA CINA
+TPS            : TPS 017
+Anies   : 150
+Prabowo : 744
+Ganjar  : 705
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/31/3175/317504/3175041007/3175041007083
+Provinsi       : DKI JAKARTA
+Kabupaten/Kota : KOTA ADM. JAKARTA TIMUR
+Kecamatan      : KRAMATJATI
+Kelurahan      : CAWANG
+TPS            : TPS 083
+Anies   : 1198
+Prabowo : 66
+Ganjar  : 16
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/31/3175/317501/3175011003/3175011003037
+Provinsi       : DKI JAKARTA
+Kabupaten/Kota : KOTA ADM. JAKARTA TIMUR
+Kecamatan      : MATRAMAN
+Kelurahan      : KAYU MANIS
+TPS            : TPS 037
+Anies   : 1073
+Prabowo : 87
+Ganjar  : 25
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/31/3175/317505/3175051003/3175051003041
+Provinsi       : DKI JAKARTA
+Kabupaten/Kota : KOTA ADM. JAKARTA TIMUR
+Kecamatan      : PASAR REBO
+Kelurahan      : CIJANTUNG
+TPS            : TPS 041
+Anies   : 84
+Prabowo : 407
+Ganjar  : 37
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/31/3175/317505/3175051003/3175051003141
+Provinsi       : DKI JAKARTA
+Kabupaten/Kota : KOTA ADM. JAKARTA TIMUR
+Kecamatan      : PASAR REBO
+Kelurahan      : CIJANTUNG
+TPS            : TPS 141
+Anies   : 700
+Prabowo : 704
+Ganjar  : 29
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/31/3175/317502/3175021002/3175021002042
+Provinsi       : DKI JAKARTA
+Kabupaten/Kota : KOTA ADM. JAKARTA TIMUR
+Kecamatan      : PULOGADUNG
+Kelurahan      : PISANGAN TIMUR
+TPS            : TPS 042
+Anies   : 99
+Prabowo : 409
+Ganjar  : 24
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/31/3175/317502/3175021001/3175021001096
+Provinsi       : DKI JAKARTA
+Kabupaten/Kota : KOTA ADM. JAKARTA TIMUR
+Kecamatan      : PULOGADUNG
+Kelurahan      : PULO GADUNG
+TPS            : TPS 096
+Anies   : 34
+Prabowo : 424
+Ganjar  : 36
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/31/3172/317204/3172041003/3172041003077
+Provinsi       : DKI JAKARTA
+Kabupaten/Kota : KOTA ADM. JAKARTA UTARA
+Kecamatan      : CILINCING
+Kelurahan      : MARUNDA
+TPS            : TPS 077
+Anies   : 44
+Prabowo : 474
+Ganjar  : 26
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/31/3172/317204/3172041002/3172041002051
+Provinsi       : DKI JAKARTA
+Kabupaten/Kota : KOTA ADM. JAKARTA UTARA
+Kecamatan      : CILINCING
+Kelurahan      : SUKAPURA
+TPS            : TPS 051
+Anies   : 89
+Prabowo : 320
+Ganjar  : 7
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/31/3172/317204/3172041002/3172041002112
+Provinsi       : DKI JAKARTA
+Kabupaten/Kota : KOTA ADM. JAKARTA UTARA
+Kecamatan      : CILINCING
+Kelurahan      : SUKAPURA
+TPS            : TPS 112
+Anies   : 106
+Prabowo : 750
+Ganjar  : 805
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/31/3172/317203/3172031006/3172031006117
+Provinsi       : DKI JAKARTA
+Kabupaten/Kota : KOTA ADM. JAKARTA UTARA
+Kecamatan      : KOJA
+Kelurahan      : RAWA BADAK SELATAN
+TPS            : TPS 117
+Anies   : 502
+Prabowo : 503
+Ganjar  : 823
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/31/3172/317203/3172031005/3172031005076
+Provinsi       : DKI JAKARTA
+Kabupaten/Kota : KOTA ADM. JAKARTA UTARA
+Kecamatan      : KOJA
+Kelurahan      : TUGU SELATAN
+TPS            : TPS 076
+Anies   : 118
+Prabowo : 403
+Ganjar  : 16
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/31/3172/317202/3172021006/3172021006118
+Provinsi       : DKI JAKARTA
+Kabupaten/Kota : KOTA ADM. JAKARTA UTARA
+Kecamatan      : TANJUNG PRIOK
+Kelurahan      : SUNTER AGUNG
+TPS            : TPS 118
+Anies   : 827
+Prabowo : 45
+Ganjar  : 70
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/31/3172/317202/3172021006/3172021006168
+Provinsi       : DKI JAKARTA
+Kabupaten/Kota : KOTA ADM. JAKARTA UTARA
+Kecamatan      : TANJUNG PRIOK
+Kelurahan      : SUNTER AGUNG
+TPS            : TPS 168
+Anies   : 14
+Prabowo : 662
+Ganjar  : 170
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/75/7502/750201/7502012012/7502012012005
+Provinsi       : GORONTALO
+Kabupaten/Kota : BOALEMO
+Kecamatan      : PAGUYAMAN
+Kelurahan      : KUALA LUMPUR
+TPS            : TPS 005
+Anies   : 74
+Prabowo : 827
+Ganjar  : 20
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/75/7503/750302/7503021011/7503021011007
+Provinsi       : GORONTALO
+Kabupaten/Kota : BONE BOLANGO
+Kecamatan      : KABILA
+Kelurahan      : PAUWO
+TPS            : TPS 007
+Anies   : 83
+Prabowo : 758
+Ganjar  : 43
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/75/7503/750302/7503022024/7503022024004
+Provinsi       : GORONTALO
+Kabupaten/Kota : BONE BOLANGO
+Kecamatan      : KABILA
+Kelurahan      : TALANGO
+TPS            : TPS 004
+Anies   : 78
+Prabowo : 766
+Ganjar  : 8
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/75/7501/750121/7501212004/7501212004004
+Provinsi       : GORONTALO
+Kabupaten/Kota : GORONTALO
+Kecamatan      : ASPARAGA
+Kelurahan      : KARYA INDAH
+TPS            : TPS 004
+Anies   : 34
+Prabowo : 652
+Ganjar  : 10
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/75/7501/750119/7501192004/7501192004005
+Provinsi       : GORONTALO
+Kabupaten/Kota : GORONTALO
+Kecamatan      : TABONGO
+Kelurahan      : LIMEHE TIMUR
+TPS            : TPS 005
+Anies   : 42
+Prabowo : 355
+Ganjar  : 11
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/75/7504/750401/7504012019/7504012019001
+Provinsi       : GORONTALO
+Kabupaten/Kota : POHUWATO
+Kecamatan      : POPAYATO
+Kelurahan      : TELAGA BIRU
+TPS            : TPS 001
+Anies   : 46
+Prabowo : 137
+Ganjar  : 905
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/15/1502/150216/1502162003/1502162003002
+Provinsi       : JAMBI
+Kabupaten/Kota :  MERANGIN
+Kecamatan      : RENAH PEMBARAP
+Kelurahan      : DURIAN BATAKUK
+TPS            : TPS 002
+Anies   : 886
+Prabowo : 484
+Ganjar  : 0
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/15/1505/150502/1505022008/1505022008004
+Provinsi       : JAMBI
+Kabupaten/Kota :  MUARO JAMBI
+Kecamatan      : SEKERNAN
+Kelurahan      : BEREMBANG
+TPS            : TPS 004
+Anies   : 54
+Prabowo : 444
+Ganjar  : 3
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/15/1504/150406/1504062012/1504062012005
+Provinsi       : JAMBI
+Kabupaten/Kota : BATANGHARI
+Kecamatan      : MARO SEBO ULU
+Kelurahan      : SUNGAI RUAN ULU
+TPS            : TPS 005
+Anies   : 14
+Prabowo : 471
+Ganjar  : 6
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/15/1571/157109/1571091007/1571091007013
+Provinsi       : JAMBI
+Kabupaten/Kota : KOTA JAMBI
+Kecamatan      : ALAM BARAJO
+Kelurahan      : PINANG MERAH
+TPS            : TPS 013
+Anies   : 49
+Prabowo : 845
+Ganjar  : 17
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/15/1571/157102/1571021006/1571021006008
+Provinsi       : JAMBI
+Kabupaten/Kota : KOTA JAMBI
+Kecamatan      : JAMBI SELATAN
+Kelurahan      : PAKUAN BARU
+TPS            : TPS 008
+Anies   : 80
+Prabowo : 671
+Ganjar  : 21
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/15/1571/157107/1571071012/1571071012040
+Provinsi       : JAMBI
+Kabupaten/Kota : KOTA JAMBI
+Kecamatan      : KOTA BARU
+Kelurahan      : KENALI ASAM
+TPS            : TPS 040
+Anies   : 737
+Prabowo : 457
+Ganjar  : 16
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/15/1571/157107/1571071005/1571071005013
+Provinsi       : JAMBI
+Kabupaten/Kota : KOTA JAMBI
+Kecamatan      : KOTA BARU
+Kelurahan      : KENALI ASAM BAWAH
+TPS            : TPS 013
+Anies   : 47
+Prabowo : 155
+Ganjar  : 425
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/15/1572/157206/1572062005/1572062005004
+Provinsi       : JAMBI
+Kabupaten/Kota : KOTA SUNGAI PENUH
+Kecamatan      : PONDOK TINGGI
+Kelurahan      : LAWANG AGUNG
+TPS            : TPS 004
+Anies   : 125
+Prabowo : 851
+Ganjar  : 805
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/15/1503/150309/1503092002/1503092002001
+Provinsi       : JAMBI
+Kabupaten/Kota : SAROLANGUN
+Kecamatan      : SINGKUT
+Kelurahan      : BUKIT TIGO
+TPS            : TPS 001
+Anies   : 524
+Prabowo : 156
+Ganjar  : 347
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/15/1506/150608/1506082004/1506082004007
+Provinsi       : JAMBI
+Kabupaten/Kota : TANJUNG JABUNG BARAT
+Kecamatan      : RENAH MENDALUH
+Kelurahan      : LAMPISI
+TPS            : TPS 007
+Anies   : 828
+Prabowo : 48
+Ganjar  : 845
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/15/1506/150606/1506061001/1506061001016
+Provinsi       : JAMBI
+Kabupaten/Kota : TANJUNG JABUNG BARAT
+Kecamatan      : TEBING TINGGI
+Kelurahan      : TEBING TINGGI
+TPS            : TPS 016
+Anies   : 48
+Prabowo : 746
+Ganjar  : 19
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/15/1506/150602/1506021017/1506021017010
+Provinsi       : JAMBI
+Kabupaten/Kota : TANJUNG JABUNG BARAT
+Kecamatan      : TUNGKAL ILIR
+Kelurahan      : SRIWIJAYA
+TPS            : TPS 010
+Anies   : 31
+Prabowo : 622
+Ganjar  : 45
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/15/1506/150602/1506022003/1506022003004
+Provinsi       : JAMBI
+Kabupaten/Kota : TANJUNG JABUNG BARAT
+Kecamatan      : TUNGKAL ILIR
+Kelurahan      : TUNGKAL I
+TPS            : TPS 004
+Anies   : 61
+Prabowo : 643
+Ganjar  : 16
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3204/320432/3204321001/3204321001107
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : BANDUNG
+Kecamatan      : BALEENDAH
+Kelurahan      : BALEENDAH
+TPS            : TPS 107
+Anies   : 859
+Prabowo : 928
+Ganjar  : 62
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3204/320432/3204322007/3204322007017
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : BANDUNG
+Kecamatan      : BALEENDAH
+Kelurahan      : MALAKASARI
+TPS            : TPS 017
+Anies   : 65
+Prabowo : 132
+Ganjar  : 444
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3204/320432/3204322006/3204322006051
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : BANDUNG
+Kecamatan      : BALEENDAH
+Kelurahan      : RANCAMANYAR
+TPS            : TPS 051
+Anies   : 102
+Prabowo : 805
+Ganjar  : 23
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3204/320432/3204321008/3204321008017
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : BANDUNG
+Kecamatan      : BALEENDAH
+Kelurahan      : WARGAMEKAR
+TPS            : TPS 017
+Anies   : 60
+Prabowo : 426
+Ganjar  : 3
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3204/320427/3204272001/3204272001019
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : BANDUNG
+Kecamatan      : CIKANCUNG
+Kelurahan      : MANDALASARI
+TPS            : TPS 019
+Anies   : 65
+Prabowo : 460
+Ganjar  : 17
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3204/320405/3204052004/3204052004053
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : BANDUNG
+Kecamatan      : CILEUNYI
+Kelurahan      : CINUNUK
+TPS            : TPS 053
+Anies   : 60
+Prabowo : 173
+Ganjar  : 517
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3204/320429/3204292005/3204292005009
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : BANDUNG
+Kecamatan      : CIPARAY
+Kelurahan      : CIHEULANG
+TPS            : TPS 009
+Anies   : 80
+Prabowo : 376
+Ganjar  : 3
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3204/320429/3204292005/3204292005020
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : BANDUNG
+Kecamatan      : CIPARAY
+Kelurahan      : CIHEULANG
+TPS            : TPS 020
+Anies   : 46
+Prabowo : 806
+Ganjar  : 15
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3204/320429/3204292001/3204292001009
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : BANDUNG
+Kecamatan      : CIPARAY
+Kelurahan      : CIPARAY
+TPS            : TPS 009
+Anies   : 445
+Prabowo : 122
+Ganjar  : 4
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3204/320436/3204362002/3204362002001
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : BANDUNG
+Kecamatan      : IBUN
+Kelurahan      : LAKSANA
+TPS            : TPS 001
+Anies   : 44
+Prabowo : 679
+Ganjar  : 6
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3204/320411/3204112002/3204112002034
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : BANDUNG
+Kecamatan      : KATAPANG
+Kelurahan      : KATAPANG
+TPS            : TPS 034
+Anies   : 551
+Prabowo : 107
+Ganjar  : 13
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3204/320433/3204332008/3204332008046
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : BANDUNG
+Kecamatan      : MAJALAYA
+Kelurahan      : SUKAMAJU
+TPS            : TPS 046
+Anies   : 70
+Prabowo : 767
+Ganjar  : 10
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3204/320433/3204332002/3204332002046
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : BANDUNG
+Kecamatan      : MAJALAYA
+Kelurahan      : WANGISAGARA
+TPS            : TPS 046
+Anies   : 420
+Prabowo : 181
+Ganjar  : 13
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3204/320409/3204092001/3204092001002
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : BANDUNG
+Kecamatan      : MARGAHAYU
+Kelurahan      : MARGAHAYU TENGAH
+TPS            : TPS 002
+Anies   : 40
+Prabowo : 607
+Ganjar  : 22
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3204/320430/3204302004/3204302004044
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : BANDUNG
+Kecamatan      : PACET
+Kelurahan      : MARUYUNG
+TPS            : TPS 044
+Anies   : 37
+Prabowo : 668
+Ganjar  : 550
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3204/320440/3204402001/3204402001013
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : BANDUNG
+Kecamatan      : RANCABALI
+Kelurahan      : PATENGAN
+TPS            : TPS 013
+Anies   : 14
+Prabowo : 472
+Ganjar  : 6
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3204/320434/3204342001/3204342001037
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : BANDUNG
+Kecamatan      : SOLOKANJERUK
+Kelurahan      : RANCAKASUMBA
+TPS            : TPS 037
+Anies   : 47
+Prabowo : 461
+Ganjar  : 18
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3217/321705/3217052006/3217052006019
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : BANDUNG BARAT
+Kecamatan      : CIPEUNDEUY
+Kelurahan      : MARGALAKSANA
+TPS            : TPS 019
+Anies   : 59
+Prabowo : 862
+Ganjar  : 76
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3217/321703/3217032008/3217032008007
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : BANDUNG BARAT
+Kecamatan      : CISARUA
+Kelurahan      : SADANGMEKAR
+TPS            : TPS 007
+Anies   : 501
+Prabowo : 400
+Ganjar  : 420
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3217/321701/3217012010/3217012010041
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : BANDUNG BARAT
+Kecamatan      : LEMBANG
+Kelurahan      : LANGENSARI
+TPS            : TPS 041
+Anies   : 33
+Prabowo : 705
+Ganjar  : 70
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3217/321716/3217162002/3217162002002
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : BANDUNG BARAT
+Kecamatan      : SAGULING
+Kelurahan      : JATI
+TPS            : TPS 002
+Anies   : 37
+Prabowo : 450
+Ganjar  : 22
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3217/321716/3217162006/3217162006002
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : BANDUNG BARAT
+Kecamatan      : SAGULING
+Kelurahan      : SAGULING
+TPS            : TPS 002
+Anies   : 100
+Prabowo : 436
+Ganjar  : 11
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3216/321602/3216021006/3216021006041
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : BEKASI
+Kecamatan      : BABELAN
+Kelurahan      : BAHAGIA
+TPS            : TPS 041
+Anies   : 118
+Prabowo : 826
+Ganjar  : 825
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3216/321607/3216071001/3216071001263
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : BEKASI
+Kecamatan      : CIBITUNG
+Kelurahan      : WANASARI
+TPS            : TPS 263
+Anies   : 93
+Prabowo : 67
+Ganjar  : 350
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3216/321609/3216092003/3216092003042
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : BEKASI
+Kecamatan      : CIKARANG UTARA
+Kelurahan      : KARANGASIH
+TPS            : TPS 042
+Anies   : 770
+Prabowo : 109
+Ganjar  : 712
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3216/321609/3216092007/3216092007056
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : BEKASI
+Kecamatan      : CIKARANG UTARA
+Kelurahan      : SIMPANGAN
+TPS            : TPS 056
+Anies   : 75
+Prabowo : 402
+Ganjar  : 21
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3216/321613/3216132001/3216132001015
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : BEKASI
+Kecamatan      : PEBAYURAN
+Kelurahan      : KARANGHARJA
+TPS            : TPS 015
+Anies   : 401
+Prabowo : 171
+Ganjar  : 27
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3216/321621/3216212005/3216212005005
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : BEKASI
+Kecamatan      : SERANG BARU
+Kelurahan      : NAGACIPTA
+TPS            : TPS 005
+Anies   : 24
+Prabowo : 870
+Ganjar  : 10
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3216/321621/3216212003/3216212003059
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : BEKASI
+Kecamatan      : SERANG BARU
+Kelurahan      : SUKASARI
+TPS            : TPS 059
+Anies   : 75
+Prabowo : 649
+Ganjar  : 13
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3216/321618/3216182003/3216182003025
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : BEKASI
+Kecamatan      : SETU
+Kelurahan      : BURANGKENG
+TPS            : TPS 025
+Anies   : 436
+Prabowo : 173
+Ganjar  : 338
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3216/321606/3216062010/3216062010082
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : BEKASI
+Kecamatan      : TAMBUN SELATAN
+Kelurahan      : SUMBERJAYA
+TPS            : TPS 082
+Anies   : 544
+Prabowo : 442
+Ganjar  : 626
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3216/321606/3216062008/3216062008030
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : BEKASI
+Kecamatan      : TAMBUN SELATAN
+Kelurahan      : TRIDAYA SAKTI
+TPS            : TPS 030
+Anies   : 880
+Prabowo : 790
+Ganjar  : 250
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3216/321605/3216052003/3216052003013
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : BEKASI
+Kecamatan      : TAMBUN UTARA
+Kelurahan      : SATRIAMEKAR
+TPS            : TPS 013
+Anies   : 449
+Prabowo : 122
+Ganjar  : 11
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3201/320113/3201131007/3201131007056
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : BOGOR
+Kecamatan      : BOJONG GEDE
+Kelurahan      : PABUARAN
+TPS            : TPS 056
+Anies   : 440
+Prabowo : 71
+Ganjar  : 61
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3201/320113/3201132004/3201132004024
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : BOGOR
+Kecamatan      : BOJONG GEDE
+Kelurahan      : RAGAJAYA
+TPS            : TPS 024
+Anies   : 75
+Prabowo : 415
+Ganjar  : 13
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3201/320113/3201132004/3201132004043
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : BOGOR
+Kecamatan      : BOJONG GEDE
+Kelurahan      : RAGAJAYA
+TPS            : TPS 043
+Anies   : 111
+Prabowo : 516
+Ganjar  : 20
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3201/320113/3201132006/3201132006030
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : BOGOR
+Kecamatan      : BOJONG GEDE
+Kelurahan      : WARINGINJAYA
+TPS            : TPS 030
+Anies   : 78
+Prabowo : 737
+Ganjar  : 46
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3201/320127/3201272004/3201272004003
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : BOGOR
+Kecamatan      : CARINGIN
+Kelurahan      : CARINGIN
+TPS            : TPS 003
+Anies   : 116
+Prabowo : 482
+Ganjar  : 9
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3201/320127/3201272005/3201272005009
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : BOGOR
+Kecamatan      : CARINGIN
+Kelurahan      : CIHERANG PONDOK
+TPS            : TPS 009
+Anies   : 551
+Prabowo : 847
+Ganjar  : 13
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3201/320127/3201272006/3201272006025
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : BOGOR
+Kecamatan      : CARINGIN
+Kelurahan      : CINAGARA
+TPS            : TPS 025
+Anies   : 55
+Prabowo : 897
+Ganjar  : 14
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3201/320108/3201082010/3201082010014
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : BOGOR
+Kecamatan      : CARIU
+Kelurahan      : CIBATUTIGA
+TPS            : TPS 014
+Anies   : 651
+Prabowo : 111
+Ganjar  : 555
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3201/320115/3201152011/3201152011005
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : BOGOR
+Kecamatan      : CIAMPEA
+Kelurahan      : CIBANTENG
+TPS            : TPS 005
+Anies   : 575
+Prabowo : 27
+Ganjar  : 273
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3201/320124/3201242004/3201242004010
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : BOGOR
+Kecamatan      : CIAWI
+Kelurahan      : JAMBULUWUK
+TPS            : TPS 010
+Anies   : 42
+Prabowo : 647
+Ganjar  : 5
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3201/320101/3201011006/3201011006026
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : BOGOR
+Kecamatan      : CIBINONG
+Kelurahan      : CIBINONG
+TPS            : TPS 026
+Anies   : 46
+Prabowo : 453
+Ganjar  : 0
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3201/320101/3201011003/3201011003040
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : BOGOR
+Kecamatan      : CIBINONG
+Kelurahan      : HARAPANJAYA
+TPS            : TPS 040
+Anies   : 82
+Prabowo : 610
+Ganjar  : 16
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3201/320101/3201011002/3201011002049
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : BOGOR
+Kecamatan      : CIBINONG
+Kelurahan      : KARADENAN
+TPS            : TPS 049
+Anies   : 23
+Prabowo : 772
+Ganjar  : 11
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3201/320101/3201011002/3201011002066
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : BOGOR
+Kecamatan      : CIBINONG
+Kelurahan      : KARADENAN
+TPS            : TPS 066
+Anies   : 645
+Prabowo : 85
+Ganjar  : 29
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3201/320101/3201011005/3201011005028
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : BOGOR
+Kecamatan      : CIBINONG
+Kelurahan      : NANGGEWER MEKAR
+TPS            : TPS 028
+Anies   : 244
+Prabowo : 772
+Ganjar  : 828
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3201/320101/3201011008/3201011008022
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : BOGOR
+Kecamatan      : CIBINONG
+Kelurahan      : TENGAH
+TPS            : TPS 022
+Anies   : 41
+Prabowo : 414
+Ganjar  : 40
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3201/320116/3201162007/3201162007032
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : BOGOR
+Kecamatan      : CIBUNGBULANG
+Kelurahan      : CIMANGGU I
+TPS            : TPS 032
+Anies   : 41
+Prabowo : 750
+Ganjar  : 12
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3201/320116/3201162009/3201162009004
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : BOGOR
+Kecamatan      : CIBUNGBULANG
+Kelurahan      : DUKUH
+TPS            : TPS 004
+Anies   : 62
+Prabowo : 487
+Ganjar  : 85
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3201/320122/3201222014/3201222014010
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : BOGOR
+Kecamatan      : CIGUDEG
+Kelurahan      : MEKARJAYA
+TPS            : TPS 010
+Anies   : 69
+Prabowo : 657
+Ganjar  : 11
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3201/320122/3201222008/3201222008019
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : BOGOR
+Kecamatan      : CIGUDEG
+Kelurahan      : RENGASJAJAR
+TPS            : TPS 019
+Anies   : 27
+Prabowo : 784
+Ganjar  : 20
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3201/320122/3201222008/3201222008025
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : BOGOR
+Kecamatan      : CIGUDEG
+Kelurahan      : RENGASJAJAR
+TPS            : TPS 025
+Anies   : 50
+Prabowo : 485
+Ganjar  : 75
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3201/320122/3201222011/3201222011005
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : BOGOR
+Kecamatan      : CIGUDEG
+Kelurahan      : SUKARAKSA
+TPS            : TPS 005
+Anies   : 70
+Prabowo : 672
+Ganjar  : 33
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3201/320129/3201292011/3201292011034
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : BOGOR
+Kecamatan      : CIOMAS
+Kelurahan      : CIOMAS RAHAYU
+TPS            : TPS 034
+Anies   : 433
+Prabowo : 114
+Ganjar  : 21
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3201/320133/3201332007/3201332007027
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : BOGOR
+Kecamatan      : CISEENG
+Kelurahan      : BABAKAN
+TPS            : TPS 027
+Anies   : 75
+Prabowo : 653
+Ganjar  : 11
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3201/320133/3201332004/3201332004017
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : BOGOR
+Kecamatan      : CISEENG
+Kelurahan      : CIBENTANG
+TPS            : TPS 017
+Anies   : 0
+Prabowo : 410
+Ganjar  : 0
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3201/320103/3201032012/3201032012015
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : BOGOR
+Kecamatan      : CITEUREUP
+Kelurahan      : SUKAHATI
+TPS            : TPS 015
+Anies   : 108
+Prabowo : 555
+Ganjar  : 595
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3201/320130/3201302008/3201302008003
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : BOGOR
+Kecamatan      : DRAMAGA
+Kelurahan      : BABAKAN
+TPS            : TPS 003
+Anies   : 600
+Prabowo : 0
+Ganjar  : 45
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3201/320130/3201302002/3201302002013
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : BOGOR
+Kecamatan      : DRAMAGA
+Kelurahan      : CIHERANG
+TPS            : TPS 013
+Anies   : 64
+Prabowo : 274
+Ganjar  : 440
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3201/320130/3201302004/3201302004007
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : BOGOR
+Kecamatan      : DRAMAGA
+Kelurahan      : SUKAWENING
+TPS            : TPS 007
+Anies   : 72
+Prabowo : 434
+Ganjar  : 17
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3201/320102/3201022003/3201022003007
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : BOGOR
+Kecamatan      : GUNUNG PUTRI
+Kelurahan      : CIANGSANA
+TPS            : TPS 007
+Anies   : 64
+Prabowo : 128
+Ganjar  : 814
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3201/320102/3201022003/3201022003008
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : BOGOR
+Kecamatan      : GUNUNG PUTRI
+Kelurahan      : CIANGSANA
+TPS            : TPS 008
+Anies   : 74
+Prabowo : 738
+Ganjar  : 8
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3201/320102/3201022001/3201022001040
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : BOGOR
+Kecamatan      : GUNUNG PUTRI
+Kelurahan      : WANAHERANG
+TPS            : TPS 040
+Anies   : 73
+Prabowo : 750
+Ganjar  : 4
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3201/320111/3201112008/3201112008028
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : BOGOR
+Kecamatan      : GUNUNG SINDUR
+Kelurahan      : CIBINONG
+TPS            : TPS 028
+Anies   : 53
+Prabowo : 573
+Ganjar  : 34
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3201/320119/3201192012/3201192012014
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : BOGOR
+Kecamatan      : JASINGA
+Kelurahan      : PAMAGERSARI
+TPS            : TPS 014
+Anies   : 53
+Prabowo : 525
+Ganjar  : 37
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3201/320119/3201192002/3201192002012
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : BOGOR
+Kecamatan      : JASINGA
+Kelurahan      : PANGRADIN
+TPS            : TPS 012
+Anies   : 704
+Prabowo : 444
+Ganjar  : 28
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3201/320106/3201062011/3201062011031
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : BOGOR
+Kecamatan      : JONGGOL
+Kelurahan      : SINGASARI
+TPS            : TPS 031
+Anies   : 883
+Prabowo : 627
+Ganjar  : 853
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3201/320112/3201122002/3201122002005
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : BOGOR
+Kecamatan      : KEMANG
+Kelurahan      : PARAKANJAYA
+TPS            : TPS 005
+Anies   : 55
+Prabowo : 650
+Ganjar  : 20
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3201/320112/3201122002/3201122002017
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : BOGOR
+Kecamatan      : KEMANG
+Kelurahan      : PARAKANJAYA
+TPS            : TPS 017
+Anies   : 844
+Prabowo : 220
+Ganjar  : 815
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3201/320112/3201122005/3201122005019
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : BOGOR
+Kecamatan      : KEMANG
+Kelurahan      : SEMPLAK BARAT
+TPS            : TPS 019
+Anies   : 482
+Prabowo : 106
+Ganjar  : 886
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3201/320132/3201322002/3201322002023
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : BOGOR
+Kecamatan      : KLAPANUNGGAL
+Kelurahan      : BOJONG
+TPS            : TPS 023
+Anies   : 440
+Prabowo : 165
+Ganjar  : 23
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3201/320132/3201322002/3201322002024
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : BOGOR
+Kecamatan      : KLAPANUNGGAL
+Kelurahan      : BOJONG
+TPS            : TPS 024
+Anies   : 21
+Prabowo : 435
+Ganjar  : 17
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3201/320132/3201322005/3201322005005
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : BOGOR
+Kecamatan      : KLAPANUNGGAL
+Kelurahan      : CIKAHURIPAN
+TPS            : TPS 005
+Anies   : 68
+Prabowo : 389
+Ganjar  : 20
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3201/320132/3201322008/3201322008004
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : BOGOR
+Kecamatan      : KLAPANUNGGAL
+Kelurahan      : LEUWIKARET
+TPS            : TPS 004
+Anies   : 84
+Prabowo : 474
+Ganjar  : 1
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3201/320139/3201392008/3201392008020
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : BOGOR
+Kecamatan      : LEUWISADENG
+Kelurahan      : SIBANTENG
+TPS            : TPS 020
+Anies   : 664
+Prabowo : 110
+Ganjar  : 884
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3201/320126/3201262009/3201262009020
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : BOGOR
+Kecamatan      : MEGAMENDUNG
+Kelurahan      : CIPAYUNG GIRANG
+TPS            : TPS 020
+Anies   : 45
+Prabowo : 194
+Ganjar  : 428
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3201/320126/3201262009/3201262009032
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : BOGOR
+Kecamatan      : MEGAMENDUNG
+Kelurahan      : CIPAYUNG GIRANG
+TPS            : TPS 032
+Anies   : 63
+Prabowo : 418
+Ganjar  : 16
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3201/320126/3201262012/3201262012002
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : BOGOR
+Kecamatan      : MEGAMENDUNG
+Kelurahan      : PASIR ANGIN
+TPS            : TPS 002
+Anies   : 52
+Prabowo : 642
+Ganjar  : 64
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3201/320121/3201212001/3201212001015
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : BOGOR
+Kecamatan      : NANGGUNG
+Kelurahan      : MALASARI
+TPS            : TPS 015
+Anies   : 845
+Prabowo : 859
+Ganjar  : 312
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3201/320121/3201212008/3201212008011
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : BOGOR
+Kecamatan      : NANGGUNG
+Kelurahan      : PARAKANMUNCANG
+TPS            : TPS 011
+Anies   : 62
+Prabowo : 552
+Ganjar  : 21
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3201/320117/3201172011/3201172011012
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : BOGOR
+Kecamatan      : PAMIJAHAN
+Kelurahan      : CIBITUNG KULON
+TPS            : TPS 012
+Anies   : 76
+Prabowo : 424
+Ganjar  : 9
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3201/320117/3201172010/3201172010013
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : BOGOR
+Kecamatan      : PAMIJAHAN
+Kelurahan      : GUNUNGBUNDER I
+TPS            : TPS 013
+Anies   : 50
+Prabowo : 505
+Ganjar  : 953
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3201/320110/3201102008/3201102008018
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : BOGOR
+Kecamatan      : PARUNG
+Kelurahan      : BOJONGINDAH
+TPS            : TPS 018
+Anies   : 844
+Prabowo : 127
+Ganjar  : 25
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3201/320110/3201102006/3201102006036
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : BOGOR
+Kecamatan      : PARUNG
+Kelurahan      : PAMEGARSARI
+TPS            : TPS 036
+Anies   : 108
+Prabowo : 444
+Ganjar  : 12
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3201/320110/3201102006/3201102006041
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : BOGOR
+Kecamatan      : PARUNG
+Kelurahan      : PAMEGARSARI
+TPS            : TPS 041
+Anies   : 97
+Prabowo : 42
+Ganjar  : 344
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3201/320120/3201202009/3201202009016
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : BOGOR
+Kecamatan      : PARUNG PANJANG
+Kelurahan      : JAGABITA
+TPS            : TPS 016
+Anies   : 36
+Prabowo : 446
+Ganjar  : 808
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3201/320118/3201182003/3201182003013
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : BOGOR
+Kecamatan      : RUMPIN
+Kelurahan      : CIDOKOM
+TPS            : TPS 013
+Anies   : 57
+Prabowo : 620
+Ganjar  : 21
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3201/320118/3201182007/3201182007026
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : BOGOR
+Kecamatan      : RUMPIN
+Kelurahan      : KAMPUNGSAWAH
+TPS            : TPS 026
+Anies   : 23
+Prabowo : 457
+Ganjar  : 229
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3201/320118/3201182012/3201182012026
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : BOGOR
+Kecamatan      : RUMPIN
+Kelurahan      : SUKAMULYA
+TPS            : TPS 026
+Anies   : 425
+Prabowo : 54
+Ganjar  : 822
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3201/320137/3201372003/3201372003014
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : BOGOR
+Kecamatan      : TAJURHALANG
+Kelurahan      : SASAK PANJANG
+TPS            : TPS 014
+Anies   : 91
+Prabowo : 413
+Ganjar  : 17
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3201/320131/3201312002/3201312002022
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : BOGOR
+Kecamatan      : TAMANSARI
+Kelurahan      : SIRNAGALIH
+TPS            : TPS 022
+Anies   : 60
+Prabowo : 874
+Ganjar  : 60
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3201/320131/3201312004/3201312004041
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : BOGOR
+Kecamatan      : TAMANSARI
+Kelurahan      : TAMANSARI
+TPS            : TPS 041
+Anies   : 631
+Prabowo : 213
+Ganjar  : 19
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3201/320140/3201402005/3201402005012
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : BOGOR
+Kecamatan      : TENJOLAYA
+Kelurahan      : CINANGNENG
+TPS            : TPS 012
+Anies   : 666
+Prabowo : 142
+Ganjar  : 810
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3201/320140/3201402004/3201402004001
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : BOGOR
+Kecamatan      : TENJOLAYA
+Kelurahan      : SITUDAUN
+TPS            : TPS 001
+Anies   : 36
+Prabowo : 639
+Ganjar  : 78
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3207/320701/3207012011/3207012011019
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : CIAMIS
+Kecamatan      : CIAMIS
+Kelurahan      : IMBANAGARA RAYA
+TPS            : TPS 019
+Anies   : 60
+Prabowo : 706
+Ganjar  : 17
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3207/320706/3207062003/3207062003013
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : CIAMIS
+Kecamatan      : CIHAURBEUTI
+Kelurahan      : CIJULANG
+TPS            : TPS 013
+Anies   : 76
+Prabowo : 653
+Ganjar  : 25
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3207/320706/3207062010/3207062010014
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : CIAMIS
+Kecamatan      : CIHAURBEUTI
+Kelurahan      : PAMOKOLAN
+TPS            : TPS 014
+Anies   : 69
+Prabowo : 143
+Ganjar  : 919
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3207/320703/3207032002/3207032002002
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : CIAMIS
+Kecamatan      : CIJEUNGJING
+Kelurahan      : CIHARALANG
+TPS            : TPS 002
+Anies   : 74
+Prabowo : 894
+Ganjar  : 22
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3207/320702/3207022017/3207022017012
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : CIAMIS
+Kecamatan      : CIKONENG
+Kelurahan      : GEGEMPALAN
+TPS            : TPS 012
+Anies   : 59
+Prabowo : 441
+Ganjar  : 12
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3207/320702/3207022002/3207022002010
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : CIAMIS
+Kecamatan      : CIKONENG
+Kelurahan      : MARGALUYU
+TPS            : TPS 010
+Anies   : 111
+Prabowo : 710
+Ganjar  : 26
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3207/320730/3207302003/3207302003002
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : CIAMIS
+Kecamatan      : CISAGA
+Kelurahan      : KEPEL
+TPS            : TPS 002
+Anies   : 833
+Prabowo : 84
+Ganjar  : 830
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3207/320730/3207302003/3207302003008
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : CIAMIS
+Kecamatan      : CISAGA
+Kelurahan      : KEPEL
+TPS            : TPS 008
+Anies   : 321
+Prabowo : 551
+Ganjar  : 551
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3207/320712/3207122001/3207122001007
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : CIAMIS
+Kecamatan      : JATINAGARA
+Kelurahan      : JATINAGARA
+TPS            : TPS 007
+Anies   : 448
+Prabowo : 879
+Ganjar  : 819
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3207/320709/3207092013/3207092013006
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : CIAMIS
+Kecamatan      : KAWALI
+Kelurahan      : PURWASARI
+TPS            : TPS 006
+Anies   : 670
+Prabowo : 72
+Ganjar  : 2
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3207/320717/3207172017/3207172017014
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : CIAMIS
+Kecamatan      : LAKBOK
+Kelurahan      : BAREGBEG
+TPS            : TPS 014
+Anies   : 809
+Prabowo : 72
+Ganjar  : 206
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3207/320719/3207192005/3207192005020
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : CIAMIS
+Kecamatan      : PAMARICAN
+Kelurahan      : BANGUNSARI
+TPS            : TPS 020
+Anies   : 951
+Prabowo : 926
+Ganjar  : 918
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3207/320719/3207192010/3207192010007
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : CIAMIS
+Kecamatan      : PAMARICAN
+Kelurahan      : SUKAHURIP
+TPS            : TPS 007
+Anies   : 813
+Prabowo : 114
+Ganjar  : 77
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3207/320710/3207102003/3207102003004
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : CIAMIS
+Kecamatan      : PANAWANGAN
+Kelurahan      : NAGARAPAGEUH
+TPS            : TPS 004
+Anies   : 68
+Prabowo : 400
+Ganjar  : 9
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3207/320708/3207082005/3207082005010
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : CIAMIS
+Kecamatan      : PANJALU
+Kelurahan      : MAPARAH
+TPS            : TPS 010
+Anies   : 608
+Prabowo : 111
+Ganjar  : 8
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3207/320708/3207082005/3207082005025
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : CIAMIS
+Kecamatan      : PANJALU
+Kelurahan      : MAPARAH
+TPS            : TPS 025
+Anies   : 118
+Prabowo : 404
+Ganjar  : 6
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3207/320735/3207352004/3207352004002
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : CIAMIS
+Kecamatan      : PURWADADI
+Kelurahan      : KARANGPANINGAL
+TPS            : TPS 002
+Anies   : 846
+Prabowo : 427
+Ganjar  : 848
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3207/320735/3207352005/3207352005005
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : CIAMIS
+Kecamatan      : PURWADADI
+Kelurahan      : SIDARAHAYU
+TPS            : TPS 005
+Anies   : 15
+Prabowo : 433
+Ganjar  : 31
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3207/320713/3207132001/3207132001006
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : CIAMIS
+Kecamatan      : RAJADESA
+Kelurahan      : RAJADESA
+TPS            : TPS 006
+Anies   : 436
+Prabowo : 54
+Ganjar  : 6
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3207/320731/3207312003/3207312003006
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : CIAMIS
+Kecamatan      : SINDANGKASIH
+Kelurahan      : BUDIASIH
+TPS            : TPS 006
+Anies   : 600
+Prabowo : 74
+Ganjar  : 7
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3207/320716/3207162001/3207162001005
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : CIAMIS
+Kecamatan      : TAMBAKSARI
+Kelurahan      : TAMBAKSARI
+TPS            : TPS 005
+Anies   : 40
+Prabowo : 998
+Ganjar  : 39
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3203/320322/3203222007/3203222007019
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : CIANJUR
+Kecamatan      : AGRABINTA
+Kelurahan      : WANASARI
+TPS            : TPS 019
+Anies   : 34
+Prabowo : 612
+Ganjar  : 28
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3203/320301/3203012002/3203012002018
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : CIANJUR
+Kecamatan      : CIANJUR
+Kelurahan      : NAGRAK
+TPS            : TPS 018
+Anies   : 862
+Prabowo : 431
+Ganjar  : 6
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3203/320323/3203232012/3203232012009
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : CIANJUR
+Kecamatan      : CIDAUN
+Kelurahan      : NEGLASARI
+TPS            : TPS 009
+Anies   : 838
+Prabowo : 152
+Ganjar  : 40
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3203/320323/3203232007/3203232007013
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : CIANJUR
+Kecamatan      : CIDAUN
+Kelurahan      : SUKAPURA
+TPS            : TPS 013
+Anies   : 48
+Prabowo : 404
+Ganjar  : 4
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3203/320312/3203122017/3203122017003
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : CIANJUR
+Kecamatan      : CIKALONGKULON
+Kelurahan      : MEKARSARI
+TPS            : TPS 003
+Anies   : 33
+Prabowo : 602
+Ganjar  : 7
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3203/320312/3203122001/3203122001007
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : CIANJUR
+Kecamatan      : CIKALONGKULON
+Kelurahan      : SUKAGALIH
+TPS            : TPS 007
+Anies   : 142
+Prabowo : 892
+Ganjar  : 68
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3203/320304/3203042005/3203042005012
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : CIANJUR
+Kecamatan      : CILAKU
+Kelurahan      : CIBINONGHILIR
+TPS            : TPS 012
+Anies   : 53
+Prabowo : 725
+Ganjar  : 4
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3203/320328/3203282005/3203282005051
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : CIANJUR
+Kecamatan      : CIPANAS
+Kelurahan      : BATULAWANG
+TPS            : TPS 051
+Anies   : 49
+Prabowo : 305
+Ganjar  : 9
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3203/320331/3203312002/3203312002024
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : CIANJUR
+Kecamatan      : HAURWANGI
+Kelurahan      : CIHEA
+TPS            : TPS 024
+Anies   : 65
+Prabowo : 457
+Ganjar  : 10
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3203/320317/3203172010/3203172010012
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : CIANJUR
+Kecamatan      : KADUPANDAK
+Kelurahan      : WARGAASIH
+TPS            : TPS 012
+Anies   : 822
+Prabowo : 200
+Ganjar  : 886
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3203/320307/3203072002/3203072002044
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : CIANJUR
+Kecamatan      : KARANGTENGAH
+Kelurahan      : BOJONG
+TPS            : TPS 044
+Anies   : 105
+Prabowo : 404
+Ganjar  : 7
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3203/320307/3203072010/3203072010006
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : CIANJUR
+Kecamatan      : KARANGTENGAH
+Kelurahan      : SABANDAR
+TPS            : TPS 006
+Anies   : 83
+Prabowo : 500
+Ganjar  : 7
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3203/320307/3203072010/3203072010031
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : CIANJUR
+Kecamatan      : KARANGTENGAH
+Kelurahan      : SABANDAR
+TPS            : TPS 031
+Anies   : 771
+Prabowo : 513
+Ganjar  : 670
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3203/320307/3203072006/3203072006010
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : CIANJUR
+Kecamatan      : KARANGTENGAH
+Kelurahan      : SUKAMANTRI
+TPS            : TPS 010
+Anies   : 27
+Prabowo : 777
+Ganjar  : 44
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3203/320330/3203302009/3203302009001
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : CIANJUR
+Kecamatan      : LELES
+Kelurahan      : SIRNASARI
+TPS            : TPS 001
+Anies   : 24
+Prabowo : 127
+Ganjar  : 870
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3203/320308/3203082012/3203082012004
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : CIANJUR
+Kecamatan      : MANDE
+Kelurahan      : MURNISARI
+TPS            : TPS 004
+Anies   : 54
+Prabowo : 713
+Ganjar  : 13
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3203/320310/3203102007/3203102007060
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : CIANJUR
+Kecamatan      : PACET
+Kelurahan      : CIPENDAWA
+TPS            : TPS 060
+Anies   : 220
+Prabowo : 515
+Ganjar  : 20
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3203/320318/3203182014/3203182014013
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : CIANJUR
+Kecamatan      : PAGELARAN
+Kelurahan      : PADAMAJU
+TPS            : TPS 013
+Anies   : 52
+Prabowo : 127
+Ganjar  : 914
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3203/320332/3203322004/3203322004011
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : CIANJUR
+Kecamatan      : PASIRKUDA
+Kelurahan      : KUBANG
+TPS            : TPS 011
+Anies   : 28
+Prabowo : 576
+Ganjar  : 10
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3203/320332/3203322004/3203322004013
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : CIANJUR
+Kecamatan      : PASIRKUDA
+Kelurahan      : KUBANG
+TPS            : TPS 013
+Anies   : 92
+Prabowo : 102
+Ganjar  : 444
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3203/320313/3203132003/3203132003027
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : CIANJUR
+Kecamatan      : SUKARESMI
+Kelurahan      : CIWALEN
+TPS            : TPS 027
+Anies   : 770
+Prabowo : 770
+Ganjar  : 272
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3203/320302/3203022009/3203022009030
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : CIANJUR
+Kecamatan      : WARUNGKONDANG
+Kelurahan      : CIWALEN
+TPS            : TPS 030
+Anies   : 582
+Prabowo : 405
+Ganjar  : 485
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3209/320910/3209102014/3209102014013
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : CIREBON
+Kecamatan      : ASTANAJAPURA
+Kelurahan      : JAPURABAKTI
+TPS            : TPS 013
+Anies   : 45
+Prabowo : 462
+Ganjar  : 89
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3209/320910/3209102010/3209102010004
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : CIREBON
+Kecamatan      : ASTANAJAPURA
+Kelurahan      : KANCI
+TPS            : TPS 004
+Anies   : 380
+Prabowo : 444
+Ganjar  : 423
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3209/320910/3209102010/3209102010015
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : CIREBON
+Kecamatan      : ASTANAJAPURA
+Kelurahan      : KANCI
+TPS            : TPS 015
+Anies   : 12
+Prabowo : 472
+Ganjar  : 16
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3209/320910/3209102007/3209102007006
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : CIREBON
+Kecamatan      : ASTANAJAPURA
+Kelurahan      : MERTAPADA WETAN
+TPS            : TPS 006
+Anies   : 52
+Prabowo : 425
+Ganjar  : 35
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3209/320913/3209132012/3209132012005
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : CIREBON
+Kecamatan      : BEBER
+Kelurahan      : PATAPAN
+TPS            : TPS 005
+Anies   : 45
+Prabowo : 422
+Ganjar  : 31
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3209/320902/3209022010/3209022010009
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : CIREBON
+Kecamatan      : CILEDUG
+Kelurahan      : DAMARGUNA
+TPS            : TPS 009
+Anies   : 555
+Prabowo : 131
+Ganjar  : 68
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3209/320902/3209022011/3209022011009
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : CIREBON
+Kecamatan      : CILEDUG
+Kelurahan      : JATISEENG
+TPS            : TPS 009
+Anies   : 348
+Prabowo : 867
+Ganjar  : 824
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3209/320931/3209312004/3209312004015
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : CIREBON
+Kecamatan      : DEPOK
+Kelurahan      : WARUGEDE
+TPS            : TPS 015
+Anies   : 30
+Prabowo : 455
+Ganjar  : 41
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3209/320916/3209162006/3209162006002
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : CIREBON
+Kecamatan      : DUKUPUNTANG
+Kelurahan      : CANGKOAK
+TPS            : TPS 002
+Anies   : 44
+Prabowo : 406
+Ganjar  : 44
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3209/320930/3209302009/3209302009003
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : CIREBON
+Kecamatan      : GEBANG
+Kelurahan      : GEBANG ILIR
+TPS            : TPS 003
+Anies   : 27
+Prabowo : 139
+Ganjar  : 839
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3209/320930/3209302009/3209302009005
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : CIREBON
+Kecamatan      : GEBANG
+Kelurahan      : GEBANG ILIR
+TPS            : TPS 005
+Anies   : 444
+Prabowo : 544
+Ganjar  : 59
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3209/320928/3209282014/3209282014011
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : CIREBON
+Kecamatan      : GEGESIK
+Kelurahan      : BAYALANGU KIDUL
+TPS            : TPS 011
+Anies   : 3
+Prabowo : 420
+Ganjar  : 0
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3209/320928/3209282005/3209282005010
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : CIREBON
+Kecamatan      : GEGESIK
+Kelurahan      : GEGESIK LOR
+TPS            : TPS 010
+Anies   : 46
+Prabowo : 460
+Ganjar  : 64
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3209/320928/3209282003/3209282003004
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : CIREBON
+Kecamatan      : GEGESIK
+Kelurahan      : GEGESIK WETAN
+TPS            : TPS 004
+Anies   : 54
+Prabowo : 493
+Ganjar  : 23
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3209/320937/3209372003/3209372003020
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : CIREBON
+Kecamatan      : GEMPOL
+Kelurahan      : KEDUNGBUNDER
+TPS            : TPS 020
+Anies   : 20
+Prabowo : 455
+Ganjar  : 39
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3209/320938/3209382002/3209382002014
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : CIREBON
+Kecamatan      : GREGED
+Kelurahan      : LEBAK MEKAR
+TPS            : TPS 014
+Anies   : 32
+Prabowo : 443
+Ganjar  : 22
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3209/320921/3209212009/3209212009011
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : CIREBON
+Kecamatan      : GUNUNG JATI
+Kelurahan      : GROGOL
+TPS            : TPS 011
+Anies   : 56
+Prabowo : 425
+Ganjar  : 24
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3209/320920/3209202010/3209202010016
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : CIREBON
+Kecamatan      : KEDAWUNG
+Kelurahan      : SUTAWINANGUN
+TPS            : TPS 016
+Anies   : 37
+Prabowo : 754
+Ganjar  : 542
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3209/320903/3209032006/3209032006003
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : CIREBON
+Kecamatan      : LOSARI
+Kelurahan      : MULYASARI
+TPS            : TPS 003
+Anies   : 45
+Prabowo : 527
+Ganjar  : 19
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3209/320936/3209362009/3209362009002
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : CIREBON
+Kecamatan      : PLERED
+Kelurahan      : CANGKRING
+TPS            : TPS 002
+Anies   : 41
+Prabowo : 755
+Ganjar  : 21
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3209/320915/3209151011/3209151011014
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : CIREBON
+Kecamatan      : SUMBER
+Kelurahan      : KEMANTREN
+TPS            : TPS 014
+Anies   : 46
+Prabowo : 499
+Ganjar  : 64
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3209/320939/3209392009/3209392009002
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : CIREBON
+Kecamatan      : SURANENGGALA
+Kelurahan      : SURANENGGALA KULON
+TPS            : TPS 002
+Anies   : 67
+Prabowo : 662
+Ganjar  : 25
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3209/320927/3209272006/3209272006007
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : CIREBON
+Kecamatan      : SUSUKAN
+Kelurahan      : KEJIWAN
+TPS            : TPS 007
+Anies   : 20
+Prabowo : 777
+Ganjar  : 39
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3209/320914/3209142003/3209142003014
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : CIREBON
+Kecamatan      : TALUN
+Kelurahan      : KECOMBERAN
+TPS            : TPS 014
+Anies   : 21
+Prabowo : 843
+Ganjar  : 25
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3205/320506/3205062001/3205062001012
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : GARUT
+Kecamatan      : BANYURESMI
+Kelurahan      : BANYURESMI
+TPS            : TPS 012
+Anies   : 49
+Prabowo : 127
+Ganjar  : 811
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3205/320506/3205062014/3205062014001
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : GARUT
+Kecamatan      : BANYURESMI
+Kelurahan      : SUKAMUKTI
+TPS            : TPS 001
+Anies   : 101
+Prabowo : 854
+Ganjar  : 883
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3205/320531/3205312007/3205312007001
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : GARUT
+Kecamatan      : BUNGBULANG
+Kelurahan      : BOJONG
+TPS            : TPS 001
+Anies   : 43
+Prabowo : 596
+Ganjar  : 92
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3205/320530/3205302002/3205302002012
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : GARUT
+Kecamatan      : CIKELET
+Kelurahan      : LINGGAMANIK
+TPS            : TPS 012
+Anies   : 90
+Prabowo : 474
+Ganjar  : 3
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3205/320501/3205011001/3205011001010
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : GARUT
+Kecamatan      : GARUT KOTA
+Kelurahan      : KOTA KULON
+TPS            : TPS 010
+Anies   : 137
+Prabowo : 500
+Ganjar  : 22
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3205/320501/3205011008/3205011008011
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : GARUT
+Kecamatan      : GARUT KOTA
+Kelurahan      : PAMINGGIR
+TPS            : TPS 011
+Anies   : 40
+Prabowo : 653
+Ganjar  : 10
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3205/320502/3205022004/3205022004009
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : GARUT
+Kecamatan      : KARANGPAWITAN
+Kelurahan      : KARANGPAWITAN
+TPS            : TPS 009
+Anies   : 700
+Prabowo : 122
+Ganjar  : 9
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3205/320509/3205092002/3205092002001
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : GARUT
+Kecamatan      : LELES
+Kelurahan      : CIBURIAL
+TPS            : TPS 001
+Anies   : 312
+Prabowo : 144
+Ganjar  : 5
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3205/320533/3205332011/3205332011011
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : GARUT
+Kecamatan      : PAKENJENG
+Kelurahan      : DEPOK
+TPS            : TPS 011
+Anies   : 302
+Prabowo : 40
+Ganjar  : 28
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3205/320533/3205332005/3205332005014
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : GARUT
+Kecamatan      : PAKENJENG
+Kelurahan      : SUKAMULYA
+TPS            : TPS 014
+Anies   : 950
+Prabowo : 143
+Ganjar  : 8
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3205/320534/3205342003/3205342003004
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : GARUT
+Kecamatan      : PAMULIHAN
+Kelurahan      : PANAWA
+TPS            : TPS 004
+Anies   : 44
+Prabowo : 654
+Ganjar  : 8
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3205/320504/3205042006/3205042006009
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : GARUT
+Kecamatan      : TAROGONG KALER
+Kelurahan      : SIRNAJAYA
+TPS            : TPS 009
+Anies   : 71
+Prabowo : 432
+Ganjar  : 5
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3212/321203/3212032007/3212032007002
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : INDRAMAYU
+Kecamatan      : GABUSWETAN
+Kelurahan      : RANCAHAN
+TPS            : TPS 002
+Anies   : 8
+Prabowo : 274
+Ganjar  : 847
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3212/321201/3212012016/3212012016017
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : INDRAMAYU
+Kecamatan      : HAURGEULIS
+Kelurahan      : SUMBERMULYA
+TPS            : TPS 017
+Anies   : 17
+Prabowo : 658
+Ganjar  : 38
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3212/321213/3212132001/3212132001004
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : INDRAMAYU
+Kecamatan      : JATIBARANG
+Kelurahan      : SUKALILA
+TPS            : TPS 004
+Anies   : 26
+Prabowo : 615
+Ganjar  : 38
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3212/321211/3212112004/3212112004033
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : INDRAMAYU
+Kecamatan      : JUNTINYUAT
+Kelurahan      : DADAP
+TPS            : TPS 033
+Anies   : 13
+Prabowo : 111
+Ganjar  : 550
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3212/321211/3212112004/3212112004044
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : INDRAMAYU
+Kecamatan      : JUNTINYUAT
+Kelurahan      : DADAP
+TPS            : TPS 044
+Anies   : 15
+Prabowo : 106
+Ganjar  : 875
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3212/321211/3212112002/3212112002005
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : INDRAMAYU
+Kecamatan      : JUNTINYUAT
+Kelurahan      : SEGERAN LOR
+TPS            : TPS 005
+Anies   : 73
+Prabowo : 166
+Ganjar  : 822
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3212/321221/3212212013/3212212013007
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : INDRAMAYU
+Kecamatan      : KANDANGHAUR
+Kelurahan      : KERTAWINANGUN
+TPS            : TPS 007
+Anies   : 21
+Prabowo : 463
+Ganjar  : 28
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3212/321228/3212282004/3212282004007
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : INDRAMAYU
+Kecamatan      : KEDOKAN BUNDER
+Kelurahan      : KEDOKANBUNDER
+TPS            : TPS 007
+Anies   : 522
+Prabowo : 128
+Ganjar  : 43
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3212/321208/3212082018/3212082018015
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : INDRAMAYU
+Kecamatan      : KERTASEMAYA
+Kelurahan      : TENAJAR LOR
+TPS            : TPS 015
+Anies   : 448
+Prabowo : 109
+Ganjar  : 33
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3212/321205/3212052003/3212052003012
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : INDRAMAYU
+Kecamatan      : LELEA
+Kelurahan      : NUNUK
+TPS            : TPS 012
+Anies   : 6
+Prabowo : 173
+Ganjar  : 339
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3212/321220/3212202002/3212202002008
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : INDRAMAYU
+Kecamatan      : LOSARANG
+Kelurahan      : KRIMUN
+TPS            : TPS 008
+Anies   : 20
+Prabowo : 455
+Ganjar  : 53
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3212/321227/3212272001/3212272001006
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : INDRAMAYU
+Kecamatan      : SUKAGUMIWANG
+Kelurahan      : CIBEBER
+TPS            : TPS 006
+Anies   : 840
+Prabowo : 265
+Ganjar  : 48
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3212/321230/3212302010/3212302010010
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : INDRAMAYU
+Kecamatan      : TUKDANA
+Kelurahan      : TUKDANA
+TPS            : TPS 010
+Anies   : 545
+Prabowo : 145
+Ganjar  : 5
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3212/321207/3212072006/3212072006015
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : INDRAMAYU
+Kecamatan      : WIDASARI
+Kelurahan      : BANGKALOA ILIR
+TPS            : TPS 015
+Anies   : 25
+Prabowo : 624
+Ganjar  : 46
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3215/321508/3215082006/3215082006007
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : KARAWANG
+Kecamatan      : BATUJAYA
+Kelurahan      : SEGARAN
+TPS            : TPS 007
+Anies   : 48
+Prabowo : 435
+Ganjar  : 18
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3215/321504/3215042003/3215042003010
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : KARAWANG
+Kecamatan      : CIAMPEL
+Kelurahan      : PARUNGMULYA
+TPS            : TPS 010
+Anies   : 19
+Prabowo : 137
+Ganjar  : 536
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3215/321515/3215152002/3215152002027
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : KARAWANG
+Kecamatan      : CILAMAYA WETAN
+Kelurahan      : CILAMAYA
+TPS            : TPS 027
+Anies   : 253
+Prabowo : 747
+Ganjar  : 33
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3215/321515/3215152011/3215152011010
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : KARAWANG
+Kecamatan      : CILAMAYA WETAN
+Kelurahan      : RAWAGEMPOL KULON
+TPS            : TPS 010
+Anies   : 17
+Prabowo : 244
+Ganjar  : 848
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3215/321501/3215011011/3215011011010
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : KARAWANG
+Kecamatan      : KARAWANG BARAT
+Kelurahan      : NAGASARI
+TPS            : TPS 010
+Anies   : 32
+Prabowo : 472
+Ganjar  : 845
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3215/321526/3215262007/3215262007019
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : KARAWANG
+Kecamatan      : KARAWANG TIMUR
+Kelurahan      : KONDANGJAYA
+TPS            : TPS 019
+Anies   : 129
+Prabowo : 101
+Ganjar  : 888
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3215/321525/3215252002/3215252002027
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : KARAWANG
+Kecamatan      : KOTA BARU
+Kelurahan      : PANGULAH SELATAN
+TPS            : TPS 027
+Anies   : 25
+Prabowo : 445
+Ganjar  : 25
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3215/321519/3215192004/3215192004007
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : KARAWANG
+Kecamatan      : LEMAHABANG
+Kelurahan      : KEDAWUNG
+TPS            : TPS 007
+Anies   : 20
+Prabowo : 35
+Ganjar  : 814
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3215/321510/3215102002/3215102002009
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : KARAWANG
+Kecamatan      : PEDES
+Kelurahan      : KARANGJAYA
+TPS            : TPS 009
+Anies   : 452
+Prabowo : 247
+Ganjar  : 823
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3215/321510/3215102007/3215102007012
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : KARAWANG
+Kecamatan      : PEDES
+Kelurahan      : KERTAMULYA
+TPS            : TPS 012
+Anies   : 38
+Prabowo : 514
+Ganjar  : 14
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3215/321518/3215182006/3215182006003
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : KARAWANG
+Kecamatan      : RAWAMERTA
+Kelurahan      : BALONGSARI
+TPS            : TPS 003
+Anies   : 16
+Prabowo : 421
+Ganjar  : 21
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3215/321518/3215182004/3215182004014
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : KARAWANG
+Kecamatan      : RAWAMERTA
+Kelurahan      : PASIRKALIKI
+TPS            : TPS 014
+Anies   : 27
+Prabowo : 418
+Ganjar  : 25
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3215/321506/3215062006/3215062006040
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : KARAWANG
+Kecamatan      : RENGASDENGKLOK
+Kelurahan      : KARYASARI
+TPS            : TPS 040
+Anies   : 19
+Prabowo : 509
+Ganjar  : 22
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3215/321506/3215062002/3215062002042
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : KARAWANG
+Kecamatan      : RENGASDENGKLOK
+Kelurahan      : RENGASDENGKLOK UTARA
+TPS            : TPS 042
+Anies   : 457
+Prabowo : 145
+Ganjar  : 875
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3215/321528/3215282003/3215282003004
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : KARAWANG
+Kecamatan      : TEGALWARU
+Kelurahan      : MEKARBUANA
+TPS            : TPS 004
+Anies   : 72
+Prabowo : 692
+Ganjar  : 2
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3215/321517/3215172006/3215172006003
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : KARAWANG
+Kecamatan      : TELAGASARI
+Kelurahan      : KALIBUAYA
+TPS            : TPS 003
+Anies   : 53
+Prabowo : 638
+Ganjar  : 16
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3215/321517/3215172003/3215172003020
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : KARAWANG
+Kecamatan      : TELAGASARI
+Kelurahan      : PASIRTALAGA
+TPS            : TPS 020
+Anies   : 30
+Prabowo : 737
+Ganjar  : 16
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3215/321520/3215202001/3215202001003
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : KARAWANG
+Kecamatan      : TEMPURAN
+Kelurahan      : PANCAKARYA
+TPS            : TPS 003
+Anies   : 805
+Prabowo : 255
+Ganjar  : 5
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3215/321520/3215202013/3215202013004
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : KARAWANG
+Kecamatan      : TEMPURAN
+Kelurahan      : TEMPURAN
+TPS            : TPS 004
+Anies   : 227
+Prabowo : 570
+Ganjar  : 8
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3215/321509/3215092008/3215092008017
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : KARAWANG
+Kecamatan      : TIRTAJAYA
+Kelurahan      : SRIJAYA
+TPS            : TPS 017
+Anies   : 51
+Prabowo : 855
+Ganjar  : 19
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3273/327321/3273211001/3273211001014
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : KOTA BANDUNG
+Kecamatan      : BANDUNG KIDUL
+Kelurahan      : BATUNUNGGAL
+TPS            : TPS 014
+Anies   : 725
+Prabowo : 884
+Ganjar  : 823
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3273/327312/3273121001/3273121001004
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : KOTA BANDUNG
+Kecamatan      : BATUNUNGGAL
+Kelurahan      : GUMURUH
+TPS            : TPS 004
+Anies   : 50
+Prabowo : 110
+Ganjar  : 835
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3273/327312/3273121001/3273121001028
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : KOTA BANDUNG
+Kecamatan      : BATUNUNGGAL
+Kelurahan      : GUMURUH
+TPS            : TPS 028
+Anies   : 471
+Prabowo : 714
+Ganjar  : 44
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3273/327322/3273221001/3273221001075
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : KOTA BANDUNG
+Kecamatan      : BUAHBATU
+Kelurahan      : SEKEJATI
+TPS            : TPS 075
+Anies   : 75
+Prabowo : 684
+Ganjar  : 24
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3273/327308/3273081002/3273081002064
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : KOTA BANDUNG
+Kecamatan      : CIDADAP
+Kelurahan      : CIUMBULEUIT
+TPS            : TPS 064
+Anies   : 80
+Prabowo : 747
+Ganjar  : 16
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3273/327330/3273301001/3273301001056
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : KOTA BANDUNG
+Kecamatan      : MANDALAJATI
+Kelurahan      : JATIHANDAP
+TPS            : TPS 056
+Anies   : 69
+Prabowo : 332
+Ganjar  : 46
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3273/327328/3273281004/3273281004006
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : KOTA BANDUNG
+Kecamatan      : PANYILEUKAN
+Kelurahan      : MEKAR MULYA
+TPS            : TPS 006
+Anies   : 415
+Prabowo : 70
+Ganjar  : 30
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3273/327323/3273231003/3273231003008
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : KOTA BANDUNG
+Kecamatan      : RANCASARI
+Kelurahan      : MANJAHLEGA
+TPS            : TPS 008
+Anies   : 704
+Prabowo : 44
+Ganjar  : 878
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3273/327307/3273071004/3273071004011
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : KOTA BANDUNG
+Kecamatan      : SUKAJADI
+Kelurahan      : SUKAGALIH
+TPS            : TPS 011
+Anies   : 50
+Prabowo : 443
+Ganjar  : 51
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3273/327307/3273071004/3273071004029
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : KOTA BANDUNG
+Kecamatan      : SUKAJADI
+Kelurahan      : SUKAGALIH
+TPS            : TPS 029
+Anies   : 49
+Prabowo : 658
+Ganjar  : 41
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3279/327901/3279011002/3279011002009
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : KOTA BANJAR
+Kecamatan      : BANJAR
+Kelurahan      : MEKARSARI
+TPS            : TPS 009
+Anies   : 57
+Prabowo : 705
+Ganjar  : 75
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3275/327507/3275071007/3275071007057
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : KOTA BEKASI
+Kecamatan      : BANTARGEBANG
+Kelurahan      : CIKETINGUDIK
+TPS            : TPS 057
+Anies   : 406
+Prabowo : 107
+Ganjar  : 28
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3275/327507/3275071004/3275071004006
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : KOTA BEKASI
+Kecamatan      : BANTARGEBANG
+Kelurahan      : CIKIWUL
+TPS            : TPS 006
+Anies   : 54
+Prabowo : 508
+Ganjar  : 20
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3275/327507/3275071004/3275071004042
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : KOTA BEKASI
+Kecamatan      : BANTARGEBANG
+Kelurahan      : CIKIWUL
+TPS            : TPS 042
+Anies   : 750
+Prabowo : 135
+Ganjar  : 17
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3275/327502/3275021001/3275021001042
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : KOTA BEKASI
+Kecamatan      : BEKASI BARAT
+Kelurahan      : BINTARA
+TPS            : TPS 042
+Anies   : 547
+Prabowo : 450
+Ganjar  : 555
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3275/327502/3275021002/3275021002095
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : KOTA BEKASI
+Kecamatan      : BEKASI BARAT
+Kelurahan      : KRANJI
+TPS            : TPS 095
+Anies   : 844
+Prabowo : 402
+Ganjar  : 27
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3275/327501/3275011004/3275011004009
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : KOTA BEKASI
+Kecamatan      : BEKASI TIMUR
+Kelurahan      : ARENJAYA
+TPS            : TPS 009
+Anies   : 73
+Prabowo : 707
+Ganjar  : 77
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3275/327501/3275011004/3275011004078
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : KOTA BEKASI
+Kecamatan      : BEKASI TIMUR
+Kelurahan      : ARENJAYA
+TPS            : TPS 078
+Anies   : 427
+Prabowo : 45
+Ganjar  : 22
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3275/327501/3275011001/3275011001038
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : KOTA BEKASI
+Kecamatan      : BEKASI TIMUR
+Kelurahan      : BEKASIJAYA
+TPS            : TPS 038
+Anies   : 602
+Prabowo : 604
+Ganjar  : 838
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3275/327501/3275011001/3275011001062
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : KOTA BEKASI
+Kecamatan      : BEKASI TIMUR
+Kelurahan      : BEKASIJAYA
+TPS            : TPS 062
+Anies   : 52
+Prabowo : 785
+Ganjar  : 23
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3275/327503/3275031006/3275031006123
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : KOTA BEKASI
+Kecamatan      : BEKASI UTARA
+Kelurahan      : HARAPANJAYA
+TPS            : TPS 123
+Anies   : 54
+Prabowo : 440
+Ganjar  : 24
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3275/327509/3275091005/3275091005064
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : KOTA BEKASI
+Kecamatan      : JATIASIH
+Kelurahan      : JATILUHUR
+TPS            : TPS 064
+Anies   : 415
+Prabowo : 74
+Ganjar  : 14
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3275/327510/3275101005/3275101005051
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : KOTA BEKASI
+Kecamatan      : JATISAMPURNA
+Kelurahan      : JATIRADEN
+TPS            : TPS 051
+Anies   : 77
+Prabowo : 100
+Ganjar  : 703
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3275/327510/3275101001/3275101001061
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : KOTA BEKASI
+Kecamatan      : JATISAMPURNA
+Kelurahan      : JATISAMPURNA
+TPS            : TPS 061
+Anies   : 600
+Prabowo : 91
+Ganjar  : 32
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3275/327511/3275111001/3275111001031
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : KOTA BEKASI
+Kecamatan      : MUSTIKAJAYA
+Kelurahan      : PADURENAN
+TPS            : TPS 031
+Anies   : 455
+Prabowo : 455
+Ganjar  : 505
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3275/327511/3275111001/3275111001034
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : KOTA BEKASI
+Kecamatan      : MUSTIKAJAYA
+Kelurahan      : PADURENAN
+TPS            : TPS 034
+Anies   : 859
+Prabowo : 600
+Ganjar  : 14
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3275/327508/3275081003/3275081003007
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : KOTA BEKASI
+Kecamatan      : PONDOKGEDE
+Kelurahan      : JATIMAKMUR
+TPS            : TPS 007
+Anies   : 778
+Prabowo : 401
+Ganjar  : 28
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3275/327508/3275081003/3275081003127
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : KOTA BEKASI
+Kecamatan      : PONDOKGEDE
+Kelurahan      : JATIMAKMUR
+TPS            : TPS 127
+Anies   : 452
+Prabowo : 86
+Ganjar  : 817
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3275/327508/3275081001/3275081001022
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : KOTA BEKASI
+Kecamatan      : PONDOKGEDE
+Kelurahan      : JATIWARINGIN
+TPS            : TPS 022
+Anies   : 64
+Prabowo : 405
+Ganjar  : 23
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3275/327512/3275121002/3275121002001
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : KOTA BEKASI
+Kecamatan      : PONDOKMELATI
+Kelurahan      : JATIWARNA
+TPS            : TPS 001
+Anies   : 872
+Prabowo : 98
+Ganjar  : 824
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3275/327505/3275051004/3275051004084
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : KOTA BEKASI
+Kecamatan      : RAWALUMBU
+Kelurahan      : BOJONGMENTENG
+TPS            : TPS 084
+Anies   : 853
+Prabowo : 110
+Ganjar  : 830
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3275/327505/3275051002/3275051002080
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : KOTA BEKASI
+Kecamatan      : RAWALUMBU
+Kelurahan      : PENGASINAN
+TPS            : TPS 080
+Anies   : 444
+Prabowo : 45
+Ganjar  : 452
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3271/327104/3271041013/3271041013027
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : KOTA BOGOR
+Kecamatan      : BOGOR BARAT
+Kelurahan      : PASIR KUDA
+TPS            : TPS 027
+Anies   : 104
+Prabowo : 423
+Ganjar  : 18
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3271/327101/3271011016/3271011016001
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : KOTA BOGOR
+Kecamatan      : BOGOR SELATAN
+Kelurahan      : CIPAKU
+TPS            : TPS 001
+Anies   : 797
+Prabowo : 122
+Ganjar  : 78
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3271/327105/3271051008/3271051008061
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : KOTA BOGOR
+Kecamatan      : BOGOR UTARA
+Kelurahan      : CIMAHPAR
+TPS            : TPS 061
+Anies   : 102
+Prabowo : 93
+Ganjar  : 430
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3277/327702/3277021002/3277021002014
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : KOTA CIMAHI
+Kecamatan      : CIMAHI TENGAH
+Kelurahan      : CIGUGUR TENGAH
+TPS            : TPS 014
+Anies   : 507
+Prabowo : 822
+Ganjar  : 21
+=================================================
+https://pemilu2024.kpu.go.id/pilpres/hitung-suara/32/3277/327702/3277021002/3277021002119
+Provinsi       : JAWA BARAT
+Kabupaten/Kota : KOTA CIMAHI
+Kecamatan      : CIMAHI TENGAH
+Kelurahan      : CIGUGUR TENGAH
+TPS            : TPS 119
+Anies   : 53
+Prabowo : 423
+Ganjar  : 255
+=================================================
